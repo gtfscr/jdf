@@ -8584,6 +8584,7 @@ stop_id,stop_name,stat,okres
 58145,"Hradec Králové,,Čistička",CZ,HK
 58146,"Hradec Králové,,Dělnický dům",CZ,HK
 58148,"Hradec Králové,,Domov důchodců",CZ,HK
+58148,"Hradec Králové,,Domov U Biřičky",CZ,HK
 58149,"Hradec Králové,,Dopravní podnik",CZ,HK
 58150,"Hradec Králové,,Dům L",CZ,HK
 58151,"Hradec Králové,,Dvorská",CZ,HK
@@ -16268,6 +16269,7 @@ stop_id,stop_name,stat,okres
 55307,"Litvínov,Šumná",CZ,MO
 55503,"Litvínov,,Technické služby",CZ,MO
 19064,"Litvínov,,Tržní",CZ,MO
+55505,"Litvínov,,u dílen",CZ,MO
 19066,"Litvínov,,u hřbitova",CZ,MO
 55308,"Litvínov,,3.ZŠ",CZ,MO
 51434,"Litvínovice,Mokré,Točna",CZ,CB
@@ -24649,6 +24651,7 @@ stop_id,stop_name,stat,okres
 59173,"Praha,,Nová Šárka",CZ,AB
 27882,"Praha,,Nové Butovice",CZ,AB
 58836,"Praha,,Nové dvory",CZ,AB
+58836,"Praha,,Nové Dvory",CZ,AB
 66826,"Praha,,Nové Komořany",CZ,AB
 50668,"Praha,,Nové náměstí",CZ,AB
 55230,"Praha,,Nové Petrovice",CZ,AB
