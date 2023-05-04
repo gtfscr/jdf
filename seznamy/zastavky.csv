@@ -4631,7 +4631,9 @@ stop_id,stop_name,stat,okres
 58543,"Číčenice,,žel.st.",CZ,ST
 5100,Číčenice,CZ,ST
 5114,"Číčovice,Malé Číčovice",CZ,PZ
+5114,"Číčovice,,Malé Číčovice",CZ,PZ
 5115,"Číčovice,Velké Číčovice",CZ,PZ
+5115,"Číčovice,,Velké Číčovice",CZ,PZ
 5172,"Číhalín,,rozc.1.0",CZ,TR
 5171,Číhalín,CZ,TR
 5176,"Číhaň,Bukovák,u nadjezdu",CZ,KT
@@ -12025,6 +12027,7 @@ stop_id,stop_name,stat,okres
 58045,"Karlovy Vary,Olšová Vrata,střed",CZ,KV
 58044,"Karlovy Vary,Olšová Vrata",CZ,KV
 57990,"Karlovy Vary,,Panorama",CZ,KV
+68302,"Karlovy Vary,,Parkoviště KOME",CZ,KV
 14051,"Karlovy Vary,,Pivovar",CZ,KV
 58067,"Karlovy Vary,,Plzeňská",CZ,KV
 14056,"Karlovy Vary,,Počernická",CZ,KV
@@ -37366,17 +37369,3 @@ stop_id,stop_name,stat,okres
 42913,"Žirovnice,Cholunná",CZ,PE
 42914,"Žirovnice,Lítkovice",CZ,PE
 42907,"Žirovnice,,nám.",CZ,PE
-42915,"Žirovnice,,Nový Svět",CZ,PE
-42908,"Žirovnice,,Počátecká",CZ,PE
-42909,"Žirovnice,,rozc.1.0",CZ,PE
-42917,"Žirovnice,Stranná,rozc.1.0",CZ,PE
-42916,"Žirovnice,Stranná",CZ,PE
-42910,"Žirovnice,,st.statek",CZ,PE
-42918,"Žirovnice,Štítné",CZ,PE
-42911,"Žirovnice,,u hřbitova",CZ,PE
-42920,"Žirovnice,Vlčetín,rozc.",CZ,PE
-42919,"Žirovnice,Vlčetín",CZ,PE
-42923,"Žíšov,,II",CZ,TA
-42922,Žíšov,CZ,TA
-42928,"Žitenice,,Pohořanská",CZ,LT
-27350,"Žitenice,Pohořany",CZ,LT
