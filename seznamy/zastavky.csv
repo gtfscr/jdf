@@ -3214,6 +3214,7 @@ stop_id,stop_name,stat,okres
 3539,"Bulovka,,ObÚ",CZ,LI
 3540,"Bulovka,,statek",CZ,LI
 47427,"Bulovka,,střed",CZ,LI
+3545,"Burgas,,AN",BG,
 64447,"Burštyn,,AS",UA,
 15653,"Buřenice,,Dobroměřice rozc.",CZ,PE
 3548,"Buřenice,Radějov",CZ,PE
@@ -6995,6 +6996,7 @@ stop_id,stop_name,stat,okres
 8467,"Hartmanice,,háj",CZ,SY
 8468,"Hartmanice,,horní",CZ,SY
 8469,Hartvíkovice,CZ,TR
+58490,"Haskovo,,AN",BG,
 8472,"Haškovcova Lhota,,rozc.0.5",CZ,TA
 66719,Haškovcova Lhota,CZ,TA
 8473,"Hať,,garáž ČSAD",CZ,OP
@@ -20284,6 +20286,7 @@ stop_id,stop_name,stat,okres
 58403,"Nupaky,,školka",CZ,PH
 24280,Nupaky,CZ,PH
 24284,"Nürnberg,,Zentraler Omnibusbahnhof (ZOB)",D,
+63264,"Nürnberg,,ZOB Rothenburger Strasse",D,
 64233,"Nyborg,,Busstation",DK,
 24288,"Nýdek,Gora,Čantoryje",CZ,FM
 24292,"Nýdek,Gora,konečná",CZ,FM
@@ -22372,6 +22375,7 @@ stop_id,stop_name,stat,okres
 26116,"Pavlovice u Přerova,,rozc.",CZ,PR
 26112,"Pavlovice,,rozc.",CZ,BN
 26111,Pavlovice,CZ,BN
+53063,"Pazardžik,,AN",BG,
 26120,"Pazderna,,kaple",CZ,FM
 26121,"Pazderna,,Špok",CZ,FM
 26122,"Pazderna,,u kříže",CZ,FM
@@ -23017,6 +23021,8 @@ stop_id,stop_name,stat,okres
 53950,"Ploskovice,Vinné",CZ,LT
 26907,Ploskovice,CZ,LT
 52881,"Plovanija,,ZOLL",HR,
+58474,"Plovdiv,,Avtogara Yug",BG,
+67373,"Plovdiv,,Bus Station South",BG,
 26913,"Pluhův Žďár,Červená Lhota,rozc.1.0",CZ,JH
 26912,"Pluhův Žďár,Červená Lhota",CZ,JH
 26915,"Pluhův Žďár,Jižná,rozc.0.8",CZ,JH
@@ -28536,6 +28542,7 @@ stop_id,stop_name,stat,okres
 32085,"Slezské Rudoltice,,nám.",CZ,BR
 32086,"Slezské Rudoltice,,u kostela",CZ,BR
 32089,"Slezské Rudoltice,Víno",CZ,BR
+50658,"Sliven,,AN",BG,
 32119,"Slopné,,Na Výpustě",CZ,ZL
 32118,Slopné,CZ,ZL
 67639,"Sloup v Čechách,,lesní divadlo",CZ,CL
@@ -28779,6 +28786,7 @@ stop_id,stop_name,stat,okres
 32448,"Sobůlky,,ZD",CZ,HO
 32447,Sobůlky,CZ,HO
 32450,"Södertälje,,Scandic Hotel",S,
+47784,"Sofia,,AN SERDIKA",BG,
 67406,"Sofiivka,,AS",UA,
 32453,Sojovice,CZ,MB
 32469,"Sokoleč,,u pekárny",CZ,NB
@@ -29047,6 +29055,7 @@ stop_id,stop_name,stat,okres
 32867,"Stará Voda,Sekerské Chalupy",CZ,CH
 32866,"Stará Voda,,záv.",CZ,CH
 32863,Stará Voda,CZ,CH
+50655,"Stara Zagora,,AN",BG,
 55029,"Staré Bříště,,U Válů",CZ,PE
 32870,Staré Bříště,CZ,PE
 32871,"Staré Buky,Dolní Staré Buky,rybník",CZ,TU
@@ -33566,6 +33575,7 @@ stop_id,stop_name,stat,okres
 38271,Vápno,CZ,PA
 38272,Vápovice,CZ,JI
 67028,"Varash,,AS",UA,
+38290,"Varna,,AN",BG,
 38293,"Varnsdorf,,aut.nádr.",CZ,DC
 38294,"Varnsdorf,,Bezručova",CZ,DC
 60276,"Varnsdorf,,Bratislavská",CZ,DC
@@ -35791,6 +35801,7 @@ stop_id,stop_name,stat,okres
 41103,"Wien,,Flughafen Wien",A,
 65892,"Wien,,Hauptbahnhof",A,
 63243,"Wien,,Hbf Wiedner Gürtel",A,
+63190,"Wien,,Stadion Center",A,
 49159,"Wien,,Südtirolerplatz",A,
 60319,"Wien,,VIB Erdberg",A,
 64574,"Wildenberg bei Tittling,,B85",D,
@@ -37359,13 +37370,3 @@ stop_id,stop_name,stat,okres
 42895,"Žinkovy,Březí",CZ,PJ
 42896,"Žinkovy,Čepinec",CZ,PJ
 42897,"Žinkovy,Kokořov",CZ,PJ
-42892,"Žinkovy,,Nový rybník",CZ,PJ
-42893,"Žinkovy,,škola",CZ,PJ
-42894,"Žinkovy,,u lipek",CZ,PJ
-42898,"Žinkovy,Žitín",CZ,PJ
-42891,Žinkovy,CZ,PJ
-42906,Žirov,CZ,PE
-42912,"Žirovnice,,Budín",CZ,PE
-42913,"Žirovnice,Cholunná",CZ,PE
-42914,"Žirovnice,Lítkovice",CZ,PE
-42907,"Žirovnice,,nám.",CZ,PE
