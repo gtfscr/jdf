@@ -7243,6 +7243,7 @@ stop_id,stop_name,stat,okres
 2892,"Hejtmánkovice,,u rybníků",CZ,NA
 63993,"Heldengut,,B12",D,
 67036,"Helsingborg,,Hamnplan",S,
+68327,"Helsingborg,,Hamntorget 2",S,
 8639,"Helvíkovice,,Houkov",CZ,UO
 8640,"Helvíkovice,,na skále",CZ,UO
 8641,"Helvíkovice,,Popluž",CZ,UO
@@ -24106,6 +24107,7 @@ stop_id,stop_name,stat,okres
 58997,"Praha,,Dvorce",CZ,AB
 65324,"Praha,,Dvorní",CZ,AB
 66757,"Praha,,Dvořákova",CZ,AB
+68328,"Praha,,Dvořákovo nábřeží",CZ,AB
 58777,"Praha,,Dyrinka",CZ,AB
 47184,"Praha,,Elišky Přemyslovny",CZ,AB
 58778,"Praha,,Farkáň",CZ,AB
@@ -27498,6 +27500,7 @@ stop_id,stop_name,stat,okres
 30756,"Rzeszów,,dw.aut.",PL,
 58399,"Rzeszów,,dw.PKP Plac Dworcowy",PL,
 64611,"Rzeszów,,dw.PKS ul.Grottera 9",PL,
+68310,"Rzeszów,,dw.PKS ul.Grottgera 1",PL,
 30757,Řásná,CZ,JI
 30759,"Řečany nad Labem,,křiž.",CZ,PA
 30763,"Řečany nad Labem,Labětín,odb.",CZ,PA
