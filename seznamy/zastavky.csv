@@ -826,6 +826,7 @@ stop_id,stop_name,stat,okres
 1168,Bezvěrov,CZ,PS
 51143,"Bialystok,,dw.PKS",PL,
 51302,"Bielefeld,,Hbf",D,
+65363,"Bielsko-Biala,,BP station Warszawska 16",PL,
 1188,"Bielsko-Biala,,dw.aut.",PL,
 64946,"Bietingen,,ZOLL",D,
 64169,"Bila Cerkva,,AS",UA,
@@ -8259,6 +8260,7 @@ stop_id,stop_name,stat,okres
 10015,Hornice,CZ,TR
 10016,Hornosín,CZ,ST
 58105,"Horodenka,,AS",UA,
+68334,"Horodyšče,,AS",UA,
 51954,Horohiv,UA,
 66171,"Horoměřice,,LIDL",CZ,PZ
 63553,"Horoměřice,,Švejkova",CZ,PZ
@@ -11706,6 +11708,7 @@ stop_id,stop_name,stat,okres
 13664,Kadov,CZ,ZN
 13667,"Kadov,Kadůvek,rozc.0.5",CZ,ZR
 13666,Kadov,CZ,ZR
+68335,"Kaharlyk,,AS",UA,
 10163,"Kájov,,Čertův mlýn",CZ,CK
 50406,"Kájov,,hl.sil.",CZ,CK
 13678,"Kájov,Kladenské Rovné",CZ,CK
@@ -11854,6 +11857,7 @@ stop_id,stop_name,stat,okres
 13910,"Kamenný Újezd,,Lihovar",CZ,RO
 13911,"Kamenný Újezd,,rozc.0.6",CZ,RO
 13913,"Kamienna Góra,,dw.aut.",PL,
+68337,"Kamjanske,,AS",UA,
 51952,Kamljanka Buzka,UA,
 56709,"Kam'yanets-Podilskyy,,AS",UA,
 45960,"Kamýk nad Vltavou,,hřiště",CZ,PB
@@ -13201,6 +13205,7 @@ stop_id,stop_name,stat,okres
 31150,"Korozluky,Sedlec,pivovar",CZ,MO
 31149,"Korozluky,Sedlec",CZ,MO
 15377,Korozluky,CZ,MO
+68336,"Korsuň-Ševčenkivskyj,,AS",UA,
 15378,"Koruna,,obchod",CZ,SY
 15379,"Koruna,,st.statek",CZ,SY
 52303,"Koryčany,Blišice,kopec",CZ,KM
@@ -13665,6 +13670,7 @@ stop_id,stop_name,stat,okres
 15988,Krakovec,CZ,RA
 46998,"Krakovec,,ZOLL",UA,
 62966,"Kraków,,Airport",PL,
+51314,"Kraków,,Balice",PL,
 66537,"Kraków,,dw.aut.Czyzyny",PL,
 15990,"Kraków,,dw.aut.",PL,
 64663,"Kraków,,MDA Bosacka",PL,
@@ -18854,6 +18860,7 @@ stop_id,stop_name,stat,okres
 22214,"Mšeno,Romanov",CZ,ME
 22216,"Mšeno,Sedlec",CZ,ME
 22217,"Mšeno,Skramouš,rozcestí",CZ,ME
+22217,"Mšeno,Skramouš,rozc.",CZ,ME
 43568,"Mšeno,Skramouš",CZ,ME
 22211,"Mšeno,,škola",CZ,ME
 22218,"Mšeno,Vojtěchov",CZ,ME
@@ -22381,7 +22388,9 @@ stop_id,stop_name,stat,okres
 26121,"Pazderna,,Špok",CZ,FM
 26122,"Pazderna,,u kříže",CZ,FM
 26128,"Pec pod Sněžkou,,aut.st.",CZ,TU
+63653,"Pec pod Sněžkou,,Bivoj",CZ,TU
 67439,"Pec pod Sněžkou,,dopravní terminál",CZ,TU
+63610,"Pec pod Sněžkou,,JAVOR",CZ,TU
 65911,"Pec pod Sněžkou,,parkoviště U Kapličky",CZ,TU
 26130,"Pec pod Sněžkou,Velká Úpa,Barrandov",CZ,TU
 6646,"Pec pod Sněžkou,Velká Úpa,most",CZ,TU
@@ -23185,6 +23194,7 @@ stop_id,stop_name,stat,okres
 57140,"Plzeň,,Náves Radčice",CZ,PM
 50370,"Plzeň,,NC Borská pole",CZ,PM
 53194,"Plzeň,,NC Černice",CZ,PM
+68024,"Plzeň,,NC Studentská",CZ,PM
 53472,"Plzeň,,NC Úněšovská",CZ,PM
 47073,"Plzeň,,Nemocnice Bory",CZ,PM
 53160,"Plzeň,,Nemocnice Lochotín",CZ,PM
@@ -29472,8 +29482,10 @@ stop_id,stop_name,stat,okres
 33327,"Strání,,škola",CZ,UH
 33326,"Strání,,U Popelků",CZ,UH
 33337,"Stránka,Ostrý,rozcestí",CZ,ME
+33337,"Stránka,Ostrý,rozc.",CZ,ME
 52049,"Stránka,Ostrý",CZ,ME
 22210,"Stránka,,rozcestí",CZ,ME
+22210,"Stránka,,rozc.",CZ,ME
 33338,"Stránka,Tajná",CZ,ME
 33336,"Stránka,,u pomníku",CZ,ME
 33334,Stránka,CZ,ME
@@ -30314,6 +30326,7 @@ stop_id,stop_name,stat,okres
 34407,"Svoboda nad Úpou,,Maršov II",CZ,TU
 34406,"Svoboda nad Úpou,,Maršov I",CZ,TU
 34408,"Svoboda nad Úpou,,nám.",CZ,TU
+63603,"Svoboda nad Úpou,,sokolovna",CZ,TU
 54620,"Svobodné Heřmanice,,dolní konec",CZ,BR
 34410,"Svobodné Heřmanice,,obecní úřad",CZ,BR
 34411,"Svobodné Heřmanice,,rozc.",CZ,BR
@@ -37359,17 +37372,3 @@ stop_id,stop_name,stat,okres
 42873,Žilov,CZ,PS
 58452,"Žim,,žel.zast.",CZ,TP
 42876,Žim,CZ,TP
-42880,"Žimutice,Korákov,rozc.",CZ,CB
-42881,"Žimutice,Krakovčice",CZ,CB
-42883,"Žimutice,Pořežany,mlýn",CZ,CB
-42882,"Žimutice,Pořežany",CZ,CB
-42884,"Žimutice,Smilovice,obec",CZ,CB
-42885,"Žimutice,Smilovice,rozc.2.0",CZ,CB
-42887,"Žimutice,Sobětice",CZ,CB
-42888,"Žimutice,Třitím",CZ,CB
-42890,"Žimutice,Tuchonice",CZ,CB
-47373,"Žimutice,,u Cihelny",CZ,CB
-42878,Žimutice,CZ,CB
-42895,"Žinkovy,Březí",CZ,PJ
-42896,"Žinkovy,Čepinec",CZ,PJ
-42897,"Žinkovy,Kokořov",CZ,PJ
