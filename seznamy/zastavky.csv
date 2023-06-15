@@ -12846,6 +12846,7 @@ stop_id,stop_name,stat,okres
 14518,"Klatovy,Luby,u pily",CZ,KT
 14519,"Klatovy,Luby,u pošty",CZ,KT
 14520,"Klatovy,Luby,záv.Silnice",CZ,KT
+68348,"Klatovy,,Městské lázně",CZ,KT
 14473,"Klatovy,,nábř.kpt.Nálepky",CZ,KT
 57818,"Klatovy,,nádraží ČD",CZ,KT
 14476,"Klatovy,,Nádražní u soudu",CZ,KT
@@ -20867,6 +20868,7 @@ stop_id,stop_name,stat,okres
 24364,"Nýřany,,sídliště",CZ,PS
 24366,"Nýřany,,Staročeské nám.",CZ,PS
 24372,"Nysa,,dw.aut.",PL,
+58402,"Nysa,,dw.PKP ul.Raclawicka",PL,
 54775,"Občov,,u lesa",CZ,PB
 24373,Občov,CZ,PB
 24377,"Obecnice,,důl",CZ,PB
@@ -21940,6 +21942,7 @@ stop_id,stop_name,stat,okres
 50177,"Ostrava,Koblov,Štěrkovna",CZ,OV
 50178,"Ostrava,Koblov,Vrbina",CZ,OV
 50173,"Ostrava,Koblov",CZ,OV
+68344,"Ostrava,Krásné Pole,Branecká",CZ,OV
 57224,"Ostrava,Krásné Pole,Družební",CZ,OV
 57225,"Ostrava,Krásné Pole,Hájkovická",CZ,OV
 67547,"Ostrava,Krásné Pole,Pohoří",CZ,OV
@@ -38187,13 +38190,3 @@ stop_id,stop_name,stat,okres
 42914,"Žirovnice,Lítkovice",CZ,PE
 42907,"Žirovnice,,nám.",CZ,PE
 42915,"Žirovnice,,Nový Svět",CZ,PE
-42908,"Žirovnice,,Počátecká",CZ,PE
-42909,"Žirovnice,,rozc.1.0",CZ,PE
-42917,"Žirovnice,Stranná,rozc.1.0",CZ,PE
-42916,"Žirovnice,Stranná",CZ,PE
-42910,"Žirovnice,,st.statek",CZ,PE
-42918,"Žirovnice,Štítné",CZ,PE
-42911,"Žirovnice,,u hřbitova",CZ,PE
-42920,"Žirovnice,Vlčetín,rozc.",CZ,PE
-42919,"Žirovnice,Vlčetín",CZ,PE
-42923,"Žíšov,,II",CZ,TA
