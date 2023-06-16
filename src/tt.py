@@ -2,15 +2,9 @@ def tt(p):
   fp = open(p, 'rb')
   def tl(li):
     b = sk().decode('cp1250')
-    l = []
-    for i in range(1, len(li)):
-      l.append(b[li[i-1]:li[i]])
-    return l
-  def tli(c, ln=4):
-    l = []
-    for i in range(0, len(c), ln):
-      l.append(int.from_bytes(c[i:i+ln], 'little'))
-    return l
+    return [b[li[i-1]:li[i]] for i in range(1,len(li))]
+  def tli(c,ln=4):
+    return [int.from_bytes(c[i:i+ln],'little') for i in range(0,len(c),ln)]
   def gl():
     return int.from_bytes(fp.read(4), 'little')
   def sk():

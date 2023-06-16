@@ -44,9 +44,13 @@ class UnZip:
     p = os.path.join(pth, 'arch', k, name[:6])
     for f,fp in jc.ldr(p).items():
       if f.startswith(name[:24]):
-        if c == JDFZInfo(fp).crcs():
-          print('return', f[:-4])
-          return f[:-4]
+        try:
+          if c == JDFZInfo(fp).crcs():
+            print('return', f[:-4])
+            return f[:-4]
+        except Exception as e:
+          print(fp, e)
+          os.remove(fp)
     _n = name; x = 1
     while os.path.exists(np := os.path.join(p, name+'.zip') ):
       name = _n+'_x'+str(x)
