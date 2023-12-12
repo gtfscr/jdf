@@ -5,6 +5,7 @@ stop_id,stop_name,stat,okres
 10,"Abertamy,,Barbora",CZ,KV
 8,"Abertamy,,nám.",CZ,KV
 9,"Abertamy,,pila",CZ,KV
+13,"Abertamy,Plešivec,rozc.",CZ,KV
 13,"Abertamy,Plešivec,rozc.3",CZ,KV
 54821,"Absetz,,Gh.Tanneneck",D,
 54826,Abzw.Ottenzell,D,
@@ -15,6 +16,7 @@ stop_id,stop_name,stat,okres
 32,"Adamov,,Karlov",CZ,BK
 22,"Adamov,,Kolonka",CZ,BK
 24,"Adamov,,obchodní dům",CZ,BK
+24,"Adamov,,Smetanovo náměstí",CZ,BK
 66338,"Adamov,Stará huť",CZ,BK
 27,"Adamov,,závod",CZ,BK
 29,"Adamov,,žel.st.točna",CZ,BK
@@ -80,6 +82,7 @@ stop_id,stop_name,stat,okres
 106,"Andělská Hora,Pustá Rudná,samota",CZ,BR
 108,"Andělská Hora,,dolní obec",CZ,KV
 108,"Andělská Hora,,Dolní obec",CZ,KV
+109,"Andělská Hora,,horní obec",CZ,KV
 109,"Andělská Hora,,hor.obec",CZ,KV
 110,"Andělská Hora,,chaty",CZ,KV
 111,"Andělská Hora,,rozc.",CZ,KV
@@ -157,6 +160,7 @@ stop_id,stop_name,stat,okres
 56547,"Athens,,ul.Lagoumitzi 65 N.Kosmos",GR,
 63223,"Augsburg,,Fernbushaltestelle Biberbachstraße",D,
 66927,"Augustów,,Dom Nauczyciela",PL,
+68043,"Augustów,,ul.29 Listopada",PL,
 66928,"Augustów,,Wojska Polskiego",PL,
 65544,"Au,,ZOLL",CH,
 64298,"Aussernbrünst,,B12",D,
@@ -239,6 +243,7 @@ stop_id,stop_name,stat,okres
 323,"Balkova Lhota,,Výrec",CZ,TA
 321,Balkova Lhota,CZ,TA
 66156,"Balta,,AS",UA,
+52583,"Balti,,aut.nádr.",MD,
 328,"Banín,,Jednota",CZ,SY
 328,"Banín,,obecní úřad",CZ,SY
 329,"Banín,,statek",CZ,SY
@@ -405,15 +410,21 @@ stop_id,stop_name,stat,okres
 49776,"Bechyně,,žel.st.",CZ,TA
 45723,"Bělá nad Radbuzou,Bystřice",CZ,DO
 720,"Bělá nad Radbuzou,Čečín",CZ,DO
+45659,"Bělá nad Radbuzou,Karlova Huť",CZ,DO
 715,"Bělá nad Radbuzou,,KOVOBEL",CZ,DO
 45657,"Bělá nad Radbuzou,,město",CZ,DO
+45658,"Bělá nad Radbuzou,,nádraží",CZ,DO
 45658,"Bělá nad Radbuzou,,nádr.",CZ,DO
+717,"Bělá nad Radbuzou,,rozcestí Železná",CZ,DO
 45659,"Bělá nad Radbuzou,,rozc.kaplička",CZ,DO
 717,"Bělá nad Radbuzou,,rozc.Železná",CZ,DO
 45661,"Bělá nad Radbuzou,Smolov,Hvozd",CZ,DO
 45662,"Bělá nad Radbuzou,Smolov,Chrz",CZ,DO
 45663,"Bělá nad Radbuzou,Smolov,konzum",CZ,DO
 45664,"Bělá nad Radbuzou,Smolov,statek",CZ,DO
+45663,"Bělá nad Radbuzou,Smolov",CZ,DO
+66990,"Bělá nad Radbuzou,Újezd Svatého Kříže,bytovky",CZ,DO
+46583,"Bělá nad Radbuzou,Újezd Svatého Kříže,lom",CZ,DO
 66990,"Bělá nad Radbuzou,Újezd Sv.Kříže,bytovky",CZ,DO
 46583,"Bělá nad Radbuzou,Újezd Sv.Kříže,lom",CZ,DO
 728,"Bělá nad Radbuzou,Železná",CZ,DO
@@ -622,6 +633,7 @@ stop_id,stop_name,stat,okres
 936,"Benešov,,Konopišťská",CZ,BN
 47411,"Benešov,,Křižíkova",CZ,BN
 57541,"Benešov,,Lidl",CZ,BN
+68478,"Benešov,,Máchova",CZ,BN
 67829,"Benešov,Mariánovice,ČSAD",CZ,BN
 26981,"Benešov,Mariánovice,rozc.",CZ,BN
 67024,"Benešov,Mariánovice",CZ,BN
@@ -843,6 +855,7 @@ stop_id,stop_name,stat,okres
 1167,"Bezuchov,,Zábraní",CZ,PR
 1170,"Bezvěrov,Buč",CZ,PS
 1171,"Bezvěrov,Dolní Jamné",CZ,PS
+68486,"Bezvěrov,,hlavní silnice",CZ,PS
 1172,"Bezvěrov,Chudeč,rozc.",CZ,PS
 1173,"Bezvěrov,Krašov",CZ,PS
 1176,"Bezvěrov,Služetín",CZ,PS
@@ -1032,7 +1045,9 @@ stop_id,stop_name,stat,okres
 1376,"Bílý Újezd,,motorest",CZ,RK
 48631,"Biograd na Moru,,aut.kolodvor",HR,
 66583,"Biograd na Moru,,Motel",HR,
+1390,"Biřkov,,kaplička",CZ,KT
 1391,"Biřkov,,VAÚ",CZ,KT
+68485,"Biřkov,,vodní nádrž",CZ,KT
 1393,"Biřkov,Zderaz,rozc.0.5",CZ,KT
 1390,Biřkov,CZ,KT
 1395,"Biskoupky,,rozc.",CZ,BO
@@ -1485,6 +1500,7 @@ stop_id,stop_name,stat,okres
 1872,"Bochov,Sovolusky",CZ,KV
 43079,"Bochov,,SÚS",CZ,KV
 13930,"Bochov,Těšetice",CZ,KV
+1875,"Bochov,Údrč,rozc.Skoky",CZ,KV
 1875,"Bochov,Údrč,rozc.",CZ,KV
 1874,"Bochov,Údrč",CZ,KV
 1877,"Bochovice,Batouchovice",CZ,TR
@@ -1887,6 +1903,7 @@ stop_id,stop_name,stat,okres
 2377,"Božice,,u sklepů",CZ,ZN
 45694,"Božice,,žel.st.",CZ,ZN
 2381,"Božičany,,KSNP",CZ,KV
+2381,"Božičany,,Sedlecký kaolin",CZ,KV
 2379,Božičany,CZ,KV
 2384,"Bradáčov,Horní Světlá",CZ,TA
 2383,Bradáčov,CZ,TA
@@ -2010,6 +2027,8 @@ stop_id,stop_name,stat,okres
 56115,"Bratislava,,Mlynské nivy",SK,BA
 2515,"Bratislava,,Patrónka",SK,BA
 2524,"Bratislava,Rusovce,št.hr.CLO",SK,BA
+2539,"Bratkovice,Dominikální Paseky,rozc.",CZ,PB
+2538,"Bratkovice,Dominikální Paseky",CZ,PB
 2539,"Bratkovice,Domin.Paseky,rozc.1.0",CZ,PB
 2538,"Bratkovice,Domin.Paseky",CZ,PB
 2537,Bratkovice,CZ,PB
@@ -2049,6 +2068,7 @@ stop_id,stop_name,stat,okres
 10591,Bražec,CZ,KV
 64321,"Bregenz,,Hauptbahnhof/Busbf. Fritz-Mayer Platz",A,
 55412,"Breitenau,,ZOLL",D,
+2584,"Bremen,,ZOB International",D,
 2587,"Brennero,,ZOLL",I,
 64249,"Brennersee,,ZOLL",A,
 51998,"Brennes,,Sporthotel",D,
@@ -2668,6 +2688,7 @@ stop_id,stop_name,stat,okres
 51499,"Brno,,Životského",CZ,BM
 52385,"Brno,,Žlutý kopec",CZ,BM
 2844,"Brod nad Dyjí,,ObÚ",CZ,BV
+2846,"Brod nad Tichou,,nádraží",CZ,TC
 2846,"Brod nad Tichou,,rozc.k nádr.",CZ,TC
 2847,"Brod nad Tichou,,ZCHPD",CZ,TC
 2845,Brod nad Tichou,CZ,TC
@@ -2986,6 +3007,8 @@ stop_id,stop_name,stat,okres
 3196,"Březník,,Horky",CZ,TR
 3197,Březník,CZ,TR
 3200,"Březno,,důl",CZ,CV
+22785,"Březno,Nechranice,na mostě",CZ,CV
+22783,"Březno,Nechranice",CZ,CV
 33341,"Březno,Stranná",CZ,CV
 33649,"Březno,Střezov,rozc.0.2",CZ,CV
 39364,"Březno,Vičice,rozc.2.0",CZ,CV
@@ -3627,6 +3650,8 @@ stop_id,stop_name,stat,okres
 4021,"Císařov,,u pomníku",CZ,PR
 4026,"Citice,,důl PS",CZ,SO
 4028,"Citice,Hlavno",CZ,SO
+4027,"Citice,,SÚS",CZ,SO
+4026,"Citice,,u mostu",CZ,SO
 4027,"Citice,,viadukt",CZ,SO
 4025,Citice,CZ,SO
 4030,"Cítoliby,,škola",CZ,LN
@@ -3649,6 +3674,7 @@ stop_id,stop_name,stat,okres
 62670,"Como,,FS Stazione San Giovanni",I,
 68063,"Como,,Piazzale San Gottardo",I,
 64153,"Como,,ZOLL",I,
+54922,"Costesti,,ZOLL",MD,
 4052,"Cotkytle,,garáž",CZ,UO
 4053,"Cotkytle,Herbortice,host.",CZ,UO
 4054,"Cotkytle,Herbortice,kaple",CZ,UO
@@ -3706,7 +3732,7 @@ stop_id,stop_name,stat,okres
 4089,"Cvrčovice,,ObÚ",CZ,KD
 4090,"Cvrčovice,,U Taušů",CZ,KD
 47962,"Čadca,,aut.st. ul.Jesenského",SK,CA
-4107,"Čadca,Podzávoz,rázc.",SK,CA
+4107,"Čadca,Čadečka,Pod diaľnicou",SK,CA
 4104,"Čadca,,Pribinova ul.",SK,CA
 4110,"Čadca,,u Sedliaka II",SK,CA
 4101,"Čadca,,u Sedliaka I",SK,CA
@@ -4763,7 +4789,9 @@ stop_id,stop_name,stat,okres
 5184,"Číhošť,Tunochody",CZ,HB
 5178,Číhošť,CZ,HB
 43001,"Čichalov,Kovářov,rozc.0.3",CZ,KV
+43001,"Čichalov,Kovářov,rozc.",CZ,KV
 43002,"Čichalov,Mokrá",CZ,KV
+43007,"Čichalov,Štoutov,rozc.",CZ,KV
 43007,"Čichalov,Štoutov",CZ,KV
 5185,Čichalov,CZ,KV
 5188,Čikov,CZ,TR
@@ -5131,6 +5159,7 @@ stop_id,stop_name,stat,okres
 5525,Děkov,CZ,RA
 55396,"Deljatin,,AS",UA,
 66624,"Den Haag,,Central Station (Schedeldoekshaven)",NL,
+5555,"Děpoltovice,,horní statek",CZ,KV
 5555,"Děpoltovice,,hor.statek",CZ,KV
 5559,"Děpoltovice,Nivy",CZ,KV
 5557,"Děpoltovice,,rozc.1.0",CZ,KV
@@ -5363,6 +5392,7 @@ stop_id,stop_name,stat,okres
 5948,"Dobev,Stará Dobev",CZ,PI
 5950,"Dobev,Velké Nepodřice,rozc.",CZ,PI
 5949,"Dobev,Velké Nepodřice",CZ,PI
+66470,"Doboj,,Autobuska stanica",BiH,
 49664,"Dobrá Voda u Českých Budějovic,,Domov důchodců",CZ,CB
 49666,"Dobrá Voda u Českých Budějovic,,Točna",CZ,CB
 49665,"Dobrá Voda u Českých Budějovic,,U kapličky",CZ,CB
@@ -6199,6 +6229,7 @@ stop_id,stop_name,stat,okres
 7064,"Drásov,,Siemens",CZ,BO
 7068,"Drásov,,Cihelna",CZ,PB
 7073,"Drásov,Skalka,dvůr",CZ,PB
+7073,"Drásov,Skalka,letiště",CZ,PB
 49161,"Drásov,Skalka,VII.",CZ,PB
 57558,"Drásov,Skalka,VI.",CZ,PB
 7072,"Drásov,Skalka,V.",CZ,PB
@@ -6402,6 +6433,7 @@ stop_id,stop_name,stat,okres
 7071,"Dubenec,,Skalka III.",CZ,PB
 57557,"Dubenec,,Skalka IV.",CZ,PB
 48718,"Dubenec,,Skalka I.",CZ,PB
+7285,Dubenec,CZ,PB
 7287,"Dubenec,,horní",CZ,TU
 7288,"Dubenec,,hostinec",CZ,TU
 7289,"Dubenec,,hřbitov",CZ,TU
@@ -6481,7 +6513,9 @@ stop_id,stop_name,stat,okres
 7384,"Dubnice,,na kraji",CZ,CL
 7386,"Dubnice,,prodejna",CZ,CL
 7387,"Dubnice,,rest.",CZ,CL
+48080,"Dubno,,kaplička",CZ,PB
 48080,"Dubno,,ObÚ",CZ,PB
+47312,"Dubno,,restaurace",CZ,PB
 47312,"Dubno,,rest.",CZ,PB
 48720,"Dubno,,učiliště",CZ,PB
 50301,"Dubno,,AS",UA,
@@ -7021,10 +7055,13 @@ stop_id,stop_name,stat,okres
 8294,"Háje nad Jizerou,Loukov",CZ,SM
 8295,"Háje nad Jizerou,Rybnice",CZ,SM
 8291,Háje nad Jizerou,CZ,SM
+8289,"Háje,,betonárna",CZ,PB
+8288,"Háje,,Na Važinách",CZ,PB
 51043,"Háje,,otočiště",CZ,PB
 8289,"Háje,,šachta 16",CZ,PB
 8288,"Háje,,šachta 21 rozc.0.8",CZ,PB
 8290,"Háje,,šachta 21",CZ,PB
+8286,Háje,CZ,PB
 8297,"Hájek,,statek",CZ,KV
 8296,Hájek,CZ,KV
 8298,"Hájek,,rozc.0.5",CZ,ST
@@ -7162,6 +7199,7 @@ stop_id,stop_name,stat,okres
 8472,"Haškovcova Lhota,,rozc.0.5",CZ,TA
 66719,Haškovcova Lhota,CZ,TA
 8473,"Hať,,garáž ČSAD",CZ,OP
+8476,"Hať,,Hostinec u sv.Mikuláše",CZ,OP
 8474,"Hať,,mlékárna",CZ,OP
 8475,"Hať,,pošta",CZ,OP
 51062,"Hať,,Šelvická",CZ,OP
@@ -7698,6 +7736,7 @@ stop_id,stop_name,stat,okres
 50118,"Hlučín,Malánky",CZ,OP
 43246,"Hlučín,,Petra Bezruče",CZ,OP
 8951,"Hlučín,,pneuservis",CZ,OP
+43246,"Hlučín,,Poliklinika",CZ,OP
 50116,"Hlučín,Rovniny,školka",CZ,OP
 50117,"Hlučín,Rovniny,U Vodárny",CZ,OP
 50115,"Hlučín,Rovniny",CZ,OP
@@ -7780,6 +7819,7 @@ stop_id,stop_name,stat,okres
 9067,"Hodkovice nad Mohelkou,,aut.nádr.",CZ,LI
 9071,"Hodkovice nad Mohelkou,Jílové",CZ,LI
 9068,"Hodkovice nad Mohelkou,,křiž.",CZ,LI
+68412,"Hodkovice nad Mohelkou,,Nové Hodkovice",CZ,LI
 9072,"Hodkovice nad Mohelkou,Záskalí,dol.ves",CZ,LI
 9073,"Hodkovice nad Mohelkou,Záskalí,hor.ves",CZ,LI
 9075,"Hodonice,,rozc.2.0",CZ,TA
@@ -7891,6 +7931,7 @@ stop_id,stop_name,stat,okres
 9181,"Holešov,,Masarykova",CZ,KM
 6114,"Holešov,,nám.",CZ,KM
 9191,"Holešov,,Osvobození",CZ,KM
+68493,"Holešov,,PZ centrum",CZ,KM
 58587,"Holešov,,PZ Letiště",CZ,KM
 9186,"Holešov,,Sfinx",CZ,KM
 9187,"Holešov,,st.statek",CZ,KM
@@ -8024,6 +8065,7 @@ stop_id,stop_name,stat,okres
 58444,"Hora Svatého Šebestiána,,CLO",CZ,CV
 54547,"Hora Svatého Šebestiána,Nová Ves",CZ,CV
 9365,Hora Svatého Šebestiána,CZ,CV
+9370,"Hora Svatého Václava,Načetín,rozcestí",CZ,DO
 9370,"Hora Svatého Václava,Načetín,rozc.1.0",CZ,DO
 9371,"Hora Svatého Václava,Šidlákov",CZ,DO
 9369,Hora Svatého Václava,CZ,DO
@@ -8398,11 +8440,13 @@ stop_id,stop_name,stat,okres
 9939,"Horní Slavkov,Kounice,internát",CZ,SO
 9938,"Horní Slavkov,Kounice",CZ,SO
 48998,"Horní Slavkov,Ležnice,rozc.",CZ,SO
+9934,"Horní Slavkov,,nad viaduktem",CZ,SO
 9929,"Horní Slavkov,,nám.",CZ,SO
 9930,"Horní Slavkov,,porcelánka",CZ,SO
 9931,"Horní Slavkov,,sídliště",CZ,SO
 9932,"Horní Slavkov,,ÚSNV",CZ,SO
 9933,"Horní Slavkov,,ústřední dílny",CZ,SO
+9932,"Horní Slavkov,,věznice",CZ,SO
 9940,"Horní Slavkov,Vlčí",CZ,SO
 9934,"Horní Slavkov,,záv.3",CZ,SO
 9941,Horní Slivno,CZ,MB
@@ -8660,6 +8704,7 @@ stop_id,stop_name,stat,okres
 10273,Hostišová,CZ,ZL
 52797,"Hostivice,Břve,sportovní hala",CZ,PZ
 10281,"Hostivice,Břve",CZ,PZ
+10279,"Hostivice,,centrum",CZ,PZ
 10282,"Hostivice,,Jeneček",CZ,PZ
 65326,"Hostivice,,K Dálnici",CZ,PZ
 47385,"Hostivice,,Litovice",CZ,PZ
@@ -8768,6 +8813,7 @@ stop_id,stop_name,stat,okres
 10391,"Hrabišín,,Fibich",CZ,SU
 10392,"Hrabišín,,náves",CZ,SU
 10393,"Hrabišín,,škola",CZ,SU
+10394,"Hrabišín,,u Stratilů",CZ,SU
 10394,"Hrabišín,,u Ztratilů",CZ,SU
 10396,"Hrabová,Vitošov",CZ,SU
 10395,Hrabová,CZ,SU
@@ -9097,6 +9143,7 @@ stop_id,stop_name,stat,okres
 10588,"Hradiště,,rozc.",CZ,BN
 10587,Hradiště,CZ,BN
 10597,"Hradiště,Radošov,hor.rozc.",CZ,KV
+10597,"Hradiště,Radošov",CZ,KV
 10603,"Hradiště,Bezděkov",CZ,PJ
 10604,"Hradiště,Záhořčičky",CZ,PJ
 10602,Hradiště,CZ,PJ
@@ -9616,6 +9663,7 @@ stop_id,stop_name,stat,okres
 11358,"Hvozdnice,,chaty",CZ,PZ
 11357,Hvozdnice,CZ,PZ
 11374,Hvožďany u Poběžovic,CZ,DO
+11374,Hvožďany,CZ,DO
 11361,"Hvožďany,,Javory",CZ,PB
 11360,"Hvožďany,Leletice,Jamky",CZ,PB
 11367,"Hvožďany,Leletice",CZ,PB
@@ -9637,6 +9685,7 @@ stop_id,stop_name,stat,okres
 11381,"Hynčice,,žel.zast.",CZ,NA
 11386,"Hynčina,,Dlouhá Ves",CZ,SU
 11387,"Hynčina,Křižanov,zast.",CZ,SU
+11382,"Hynčina,,pod kostelem",CZ,SU
 11385,"Hynčina,,Popelák",CZ,SU
 11382,"Hynčina,,rest.",CZ,SU
 11383,"Hynčina,,rozc.Lupěné",CZ,SU
@@ -9687,9 +9736,18 @@ stop_id,stop_name,stat,okres
 11427,"Charváty,,náves",CZ,OL
 11430,"Chářovice,,II",CZ,BN
 11429,"Chářovice,,I",CZ,BN
+10116,"Chbany,Hořenice,rozc.",CZ,CV
+20163,"Chbany,Malé Krhovice,rozc.",CZ,CV
+20162,"Chbany,Malé Krhovice",CZ,CV
 55472,"Chbany,Poláky,točna",CZ,CV
 27412,"Chbany,Poláky",CZ,CV
+28736,"Chbany,Přeskaky,rozc.",CZ,CV
 12133,"Chbany,,rozc.Chudeřín",CZ,CV
+32369,"Chbany,Soběsuky,rozc.",CZ,CV
+38007,"Chbany,Vadkovice,rozc.",CZ,CV
+38006,"Chbany,Vadkovice",CZ,CV
+39448,"Chbany,Vikletice,přehrada",CZ,CV
+39447,"Chbany,Vikletice",CZ,CV
 11433,Chbany,CZ,CV
 11437,"Cheb,,aut.nádr.",CZ,CH
 11453,"Cheb,Cetnov,rozc.",CZ,CH
@@ -9733,6 +9791,7 @@ stop_id,stop_name,stat,okres
 11463,"Cheb,Podhrad,Chebská",CZ,CH
 11464,"Cheb,Podhrad,most",CZ,CH
 11446,"Cheb,,Podhradská depo rozc.0.2",CZ,CH
+11446,"Cheb,,Podhradská depo rozc.",CZ,CH
 11444,"Cheb,,Podhradská",CZ,CH
 11461,"Cheb,Podhrad,točna",CZ,CH
 11466,"Cheb,Podhrad,Všeboř rozc.",CZ,CH
@@ -9943,10 +10002,12 @@ stop_id,stop_name,stat,okres
 46967,"Chodov,,host.",CZ,KV
 46968,"Chodov,,polesí",CZ,KV
 11637,"Chodov,,aut.nádr.",CZ,SO
+11639,"Chodov,,Horní",CZ,SO
 11638,"Chodov,,Chodos",CZ,SO
 11645,"Chodov,Chranišov,osada",CZ,SO
 11639,"Chodov,,IPS",CZ,SO
 11646,"Chodov,Nová Chodovská",CZ,SO
+68450,"Chodov,,rozc.Vintířov",CZ,SO
 11641,"Chodov,,sídliště",CZ,SO
 63543,"Chodov,,SKF",CZ,SO
 11647,"Chodov,Stará Chodovská",CZ,SO
@@ -10098,6 +10159,7 @@ stop_id,stop_name,stat,okres
 11752,"Chotěboř,,drůbežárna Křivý",CZ,HB
 11754,"Chotěboř,,Havlíčkova",CZ,HB
 11772,"Chotěboř,Klouzovy",CZ,HB
+11756,"Chotěboř,,Letná",CZ,HB
 11773,"Chotěboř,Marieves",CZ,HB
 11757,"Chotěboř,,nám.TGM",CZ,HB
 11774,"Chotěboř,Nový Dvůr",CZ,HB
@@ -10757,6 +10819,7 @@ stop_id,stop_name,stat,okres
 51591,"Jablonec nad Nisou,Proseč n.Nisou,pošta",CZ,JN
 52481,"Jablonec nad Nisou,Proseč n.Nisou,Široká",CZ,JN
 51780,"Jablonec nad Nisou,Proseč n.Nisou,u překladiště",CZ,JN
+51679,"Jablonec nad Nisou,Proseč n.Nisou,U Šamotky",CZ,JN
 51781,"Jablonec nad Nisou,Proseč n.Nisou,U Tenisu",CZ,JN
 51779,"Jablonec nad Nisou,Proseč n.Nisou,V Pastvinách",CZ,JN
 51679,"Jablonec nad Nisou,Proseč n.Nisou,výhybna",CZ,JN
@@ -10978,12 +11041,18 @@ stop_id,stop_name,stat,okres
 12646,"Janov,,pila",CZ,SY
 12645,"Janov,,pošta",CZ,SY
 12647,"Janov,,transf.",CZ,SY
+12679,"Janovice nad Úhlavou,Dolní Lhota,rozcestí",CZ,KT
 12679,"Janovice nad Úhlavou,Dolní Lhota,rozc.",CZ,KT
 12680,"Janovice nad Úhlavou,Granátka",CZ,KT
+12681,"Janovice nad Úhlavou,Hvízdalka,rozcestí",CZ,KT
 12681,"Janovice nad Úhlavou,Hvízdalka,rozc.0.5",CZ,KT
+12674,"Janovice nad Úhlavou,,náměstí",CZ,KT
 12674,"Janovice nad Úhlavou,,nám.",CZ,KT
+12683,"Janovice nad Úhlavou,Ondřejovice,rozcestí",CZ,KT
 12683,"Janovice nad Úhlavou,Ondřejovice,rozc.1.0",CZ,KT
+12684,"Janovice nad Úhlavou,Osiná,rozcestí",CZ,KT
 12684,"Janovice nad Úhlavou,Osiná,rozc.0.5",CZ,KT
+12686,"Janovice nad Úhlavou,Petrovice nad Úhlavou",CZ,KT
 12686,"Janovice nad Úhlavou,Petrovice n.Úhl.,rozc.",CZ,KT
 12675,"Janovice nad Úhlavou,,Rozvojová zóna",CZ,KT
 12677,"Janovice nad Úhlavou,,u mostu",CZ,KT
@@ -11077,6 +11146,7 @@ stop_id,stop_name,stat,okres
 12758,"Jaroměřice,,rozc.1.0",CZ,SY
 12758,"Jaroměřice,,rozc.",CZ,SY
 12759,"Jaroměřice,,u hřiště",CZ,SY
+13157,"Jaroměřice,,žel.st.",CZ,SY
 49071,"Jaroslav,,nádrž",CZ,PA
 12778,"Jaroslav,,náves",CZ,PA
 49071,"Jaroslav,,rybníček",CZ,PA
@@ -11719,6 +11789,7 @@ stop_id,stop_name,stat,okres
 13397,"Jindřichovice,,Mezihorská",CZ,SO
 13398,"Jindřichovice,,OSS",CZ,SO
 13401,"Jindřichovice,Smrčina",CZ,SO
+13398,"Jindřichovice,,u vysílače",CZ,SO
 13396,Jindřichovice,CZ,SO
 13402,"Jindřichův Hradec,,aut.nádr.",CZ,JH
 13404,"Jindřichův Hradec,,bažantnice samoty",CZ,JH
@@ -11824,8 +11895,10 @@ stop_id,stop_name,stat,okres
 66650,"Jirny,,kulturní dům",CZ,PH
 55556,"Jirny,,Logistický park",CZ,PH
 66431,"Jirny,,Luční",CZ,PH
+13497,"Jirny,Nové Jirny,hájovna",CZ,PH
 13497,"Jirny,Nové Jirny,II",CZ,PH
 13496,"Jirny,Nové Jirny,I",CZ,PH
+13496,"Jirny,Nové Jirny,kaplička",CZ,PH
 13494,"Jirny,,rozc.",CZ,PH
 46981,"Jirny,,zámek",CZ,PH
 13493,Jirny,CZ,PH
@@ -11934,6 +12007,7 @@ stop_id,stop_name,stat,okres
 13601,"Josefov,Radvanov,rozc.",CZ,SO
 64338,"Josefov,Radvanov",CZ,SO
 13600,"Josefov,,rozc.1.0",CZ,SO
+13600,"Josefov,,rozc.",CZ,SO
 13599,Josefov,CZ,SO
 124,"Josefův Důl,Antonínov,sklárna",CZ,JN
 13606,"Josefův Důl,,centrum",CZ,JN
@@ -11950,6 +12024,7 @@ stop_id,stop_name,stat,okres
 13621,Kaceřov,CZ,PS
 13624,"Kaceřov,Horní Pochlovice",CZ,SO
 13623,"Kaceřov,,rozc.1.3",CZ,SO
+13623,"Kaceřov,,rozc.",CZ,SO
 13622,Kaceřov,CZ,SO
 13626,"Kácov,,Jirsíkova",CZ,KH
 13625,"Kácov,,nám.",CZ,KH
@@ -12012,6 +12087,7 @@ stop_id,stop_name,stat,okres
 13676,"Kájov,,rozc.0.5",CZ,CK
 13677,"Kájov,Staré Dobrkovice",CZ,CK
 13674,Kájov,CZ,CK
+66466,"Kakanj,,Autobuska stanica",BiH,
 7086,"Kakejcov,Dražky",CZ,RO
 13684,Kakejcov,CZ,RO
 52762,"Kaldenkirchen,,ZOLL",D,
@@ -12133,6 +12209,7 @@ stop_id,stop_name,stat,okres
 13884,"Kamenné Žehrovice,,Vaňkovka",CZ,KD
 13883,Kamenné Žehrovice,CZ,KD
 656,"Kamenný Malíkov,,U Doudů",CZ,JH
+68482,"Kamenný Malíkov,,u mostu",CZ,JH
 13886,Kamenný Malíkov,CZ,JH
 13888,"Kamenný Most,,křiž.",CZ,KD
 13899,"Kamenný Přívoz,Hostěradice,dom.důch.",CZ,PZ
@@ -12412,6 +12489,7 @@ stop_id,stop_name,stat,okres
 65534,"Karpacz,,Bachus",PL,
 65536,"Karpacz,,Bialy Jar",PL,
 52632,"Karviná,Darkov,hotel",CZ,KA
+14108,"Karviná,Darkov,Karvinské moře",CZ,KA
 52633,"Karviná,Darkov,lázně",CZ,KA
 14110,"Karviná,Darkov,nadjezd",CZ,KA
 14108,"Karviná,Darkov,pomocný závod",CZ,KA
@@ -12422,6 +12500,7 @@ stop_id,stop_name,stat,okres
 14100,"Karviná,Doly,rozc.Barbora",CZ,KA
 14102,"Karviná,Doly,Sovinec rest.",CZ,KA
 14101,"Karviná,Doly,Sovinec",CZ,KA
+14105,"Karviná,Doly,Šikmý kostel",CZ,KA
 14103,"Karviná,Doly,zast.Barbora",CZ,KA
 14104,"Karviná,Doly,zast.ČSA",CZ,KA
 14105,"Karviná,Doly,zast.Gabriela",CZ,KA
@@ -12944,6 +13023,7 @@ stop_id,stop_name,stat,okres
 14556,"Klenčí pod Čerchovem,Capartice",CZ,DO
 14558,"Klenčí pod Čerchovem,Černá Řeka",CZ,DO
 14557,"Klenčí pod Čerchovem,Jindřichova Hora",CZ,DO
+14555,"Klenčí pod Čerchovem,,nádraží",CZ,DO
 14553,"Klenčí pod Čerchovem,,STEATIT",CZ,DO
 14552,"Klenčí pod Čerchovem,,škola",CZ,DO
 14559,"Klenčí pod Čerchovem,Výhledy",CZ,DO
@@ -13071,6 +13151,7 @@ stop_id,stop_name,stat,okres
 14750,"Kněževes,,u mlýna",CZ,RA
 14751,"Kněževes,,žel.zast.",CZ,RA
 14752,Kněževes,CZ,ZR
+66475,"Kneževo,,ZOLL",HR,
 14757,"Kněžice,,bytovky",CZ,CR
 14756,Kněžice,CZ,CR
 14770,"Kněžice,Brodce",CZ,JI
@@ -14097,6 +14178,7 @@ stop_id,stop_name,stat,okres
 16080,"Kralovice,,cihelna",CZ,PS
 16086,"Kralovice,Červená Hora",CZ,PS
 16081,"Kralovice,,ČSAD",CZ,PS
+16088,"Kralovice,Hradecko,rozc.",CZ,PS
 16087,"Kralovice,Hradecko",CZ,PS
 11090,"Kralovice,Hubenov,rozc.",CZ,PS
 11089,"Kralovice,Hubenov",CZ,PS
@@ -14224,10 +14306,12 @@ stop_id,stop_name,stat,okres
 16218,"Kraslice,Sněžná,rozc.",CZ,SO
 16217,"Kraslice,Sněžná",CZ,SO
 58738,"Kraslice,,škola Havlíčkova",CZ,SO
+16197,"Kraslice,,technické služby",CZ,SO
 16219,"Kraslice,Tisová",CZ,SO
 16202,"Kraslice,,u Hrdličky",CZ,SO
 16203,"Kraslice,,Wolkerova",CZ,SO
 16220,"Kraslice,Zátiší,rozc.",CZ,SO
+58738,"Kraslice,,ZŠ Havlíčkova",CZ,SO
 16253,"Krásná Hora nad Vltavou,Hostovnice,rozc.",CZ,PB
 16261,"Krásná Hora nad Vltavou,Krašovice,rozc.Rybníček",CZ,PB
 16260,"Krásná Hora nad Vltavou,Krašovice",CZ,PB
@@ -14312,6 +14396,7 @@ stop_id,stop_name,stat,okres
 16296,"Krásno,,RD úpravna",CZ,SO
 9937,"Krásno,,rozc.Háje",CZ,SO
 16297,"Krásno,,rozc.0.3",CZ,SO
+16297,"Krásno,,rozc.",CZ,SO
 16295,Krásno,CZ,SO
 64661,"Krasnohrad,,AS",UA,
 52705,"Krásný Dvůr,Brody,rozc.",CZ,LN
@@ -14762,6 +14847,7 @@ stop_id,stop_name,stat,okres
 16836,"Křesetice,Chrást,rozc.",CZ,KH
 49784,"Křesetice,Chrást",CZ,KH
 16837,"Křesetice,Krupá",CZ,KH
+68492,"Křesetice,,rozc.Úmonín",CZ,KH
 16832,"Křesetice,,u rybníku",CZ,KH
 16831,Křesetice,CZ,KH
 62429,"Křešice,,Kolonie",CZ,LT
@@ -14851,6 +14937,7 @@ stop_id,stop_name,stat,okres
 16915,"Křižanovice,,žel.st.",CZ,VY
 16917,"Křižany,,cihelna",CZ,LI
 16918,"Křižany,,hor.ves",CZ,LI
+68457,"Křižany,,K Ještědu",CZ,LI
 16919,"Křižany,,ObÚ",CZ,LI
 16920,"Křižany,,pila",CZ,LI
 16921,"Křižany,,pošta",CZ,LI
@@ -15397,6 +15484,7 @@ stop_id,stop_name,stat,okres
 17569,"Lázně Kynžvart,,SLOP",CZ,CH
 17570,"Lázně Kynžvart,,zámek",CZ,CH
 17571,"Lázně Kynžvart,,žel.st.",CZ,CH
+17569,"Lázně Kynžvart,,5.května",CZ,CH
 17578,"Lázně Libverda,,centrum",CZ,LI
 17576,"Lázně Libverda,,obratiště",CZ,LI
 17577,"Lázně Libverda,,Obří Sud",CZ,LI
@@ -15719,6 +15807,7 @@ stop_id,stop_name,stat,okres
 51044,"Lhota u Příbramě,,MSM",CZ,PB
 18065,"Lhota u Příbramě,,MŠ",CZ,PB
 18066,"Lhota u Příbramě,,prodejna",CZ,PB
+51044,"Lhota u Příbramě,,točna",CZ,PB
 40549,"Lhota u Vsetína,Dolansko",CZ,VS
 40550,"Lhota u Vsetína,,Kapka resort",CZ,VS
 40551,"Lhota u Vsetína,,Na hranici",CZ,VS
@@ -16015,6 +16104,7 @@ stop_id,stop_name,stat,okres
 65789,"Liberec,Vratislavice n.Nisou,U Lesa",CZ,LI
 65787,"Liberec,Vratislavice n.Nisou,U Závor",CZ,LI
 65782,"Liberec,Vratislavice n.Nisou,Vinařská",CZ,LI
+51654,"Liberec,Vratislavice n.Nisou,Vratislavická Kyselka",CZ,LI
 65785,"Liberec,Vratislavice n.Nisou,Vyhlídková křižovatka",CZ,LI
 65791,"Liberec,Vratislavice n.Nisou,Vyhlídková",CZ,LI
 51696,"Liberec,Vratislavice n.Nisou,výhybna",CZ,LI
@@ -16344,6 +16434,7 @@ stop_id,stop_name,stat,okres
 18599,"Lipník nad Bečvou,,Osecká-škola",CZ,PR
 18592,"Lipník nad Bečvou,,Pod horou lom",CZ,PR
 18614,"Lipník nad Bečvou,Podhoří,náves",CZ,PR
+68424,"Lipník nad Bečvou,Podhoří,Peklo",CZ,PR
 18615,"Lipník nad Bečvou,Podhoří,pila",CZ,PR
 18616,"Lipník nad Bečvou,Podhoří,rozc.",CZ,PR
 18593,"Lipník nad Bečvou,,rest.Moravská brána",CZ,PR
@@ -16386,6 +16477,7 @@ stop_id,stop_name,stat,okres
 18644,"Lipová,Doubrava,žel.st.",CZ,CH
 18643,"Lipová,Doubrava",CZ,CH
 18645,"Lipová,Horní Lažany",CZ,CH
+18642,"Lipová,Horní Lipina,rozc.",CZ,CH
 18647,"Lipová,Mýtina,Kozly",CZ,CH
 18646,"Lipová,Mýtina",CZ,CH
 18648,"Lipová,Palič",CZ,CH
@@ -16679,6 +16771,7 @@ stop_id,stop_name,stat,okres
 19027,Litošice,CZ,PA
 30138,"Litovany,,Boříkovice",CZ,TR
 19029,Litovany,CZ,TR
+19030,"Litovel,,aut.nádr.",CZ,OL
 19030,"Litovel,,aut.st.",CZ,OL
 19036,"Litovel,Březové,náves",CZ,OL
 51375,"Litovel,,hřbitov",CZ,OL
@@ -16889,6 +16982,7 @@ stop_id,stop_name,stat,okres
 19206,"Lomnice,,lom",CZ,SO
 19207,"Lomnice,,obecní úřad",CZ,SO
 19208,"Lomnice,,OSS",CZ,SO
+19208,"Lomnice,,rozc.",CZ,SO
 19210,"Lomnice,Týn",CZ,SO
 19209,"Lomnice,,u hřbitova",CZ,SO
 19234,"Lomnička,,ObÚ",CZ,BO
@@ -16975,6 +17069,7 @@ stop_id,stop_name,stat,okres
 19333,"Loukov,,Benzina",CZ,KM
 19334,"Loukov,,dolní",CZ,KM
 19335,"Loukov,,kostel",CZ,KM
+68448,"Loukov,,křiž.",CZ,KM
 19339,"Loukov,Libosváry",CZ,KM
 19336,"Loukov,,náves",CZ,KM
 19340,"Loukov,,Na Veselici",CZ,MB
@@ -17434,6 +17529,7 @@ stop_id,stop_name,stat,okres
 19934,"Mačkov,,žel.přejezd",CZ,ST
 19933,Mačkov,CZ,ST
 49167,"Magdeburg,,ZOB Bussteig 7",D,
+66469,"Maglaj,,Autobuska stanica",BiH,
 22854,"Mahouš,Hlodačky,rozc.1.0",CZ,PT
 19949,"Mahouš,,ZD",CZ,PT
 19948,Mahouš,CZ,PT
@@ -17534,6 +17630,7 @@ stop_id,stop_name,stat,okres
 20100,Malá Vrbka,CZ,HO
 20138,"Malčín,Komárov,rozc.0.9",CZ,HB
 20137,Malčín,CZ,HB
+40861,"Malé Březno,Vysoké Březno",CZ,MO
 20141,Malé Březno,CZ,MO
 68407,"Malé Březno,,točna",CZ,UL
 20145,Malé Březno,CZ,UL
@@ -17687,6 +17784,7 @@ stop_id,stop_name,stat,okres
 20382,"Manětín,Mezí",CZ,PS
 67633,"Manětín,,Na Výhledech",CZ,PS
 20375,"Manětín,,nám.",CZ,PS
+20383,"Manětín,Rabštejn nad Střelou",CZ,PS
 20383,"Manětín,Rabštejn n.Střelou",CZ,PS
 20385,"Manětín,Stvolny,rozc.",CZ,PS
 20384,"Manětín,Stvolny",CZ,PS
@@ -17722,6 +17820,7 @@ stop_id,stop_name,stat,okres
 50545,"Mariánské Lázně,,Chebská",CZ,CH
 57456,"Mariánské Lázně,,Karna",CZ,CH
 57446,"Mariánské Lázně,,Kaufland",CZ,CH
+20426,"Mariánské Lázně,Kladská,Mýtský rybník",CZ,CH
 20426,"Mariánské Lázně,Kladská,Mýtský ryb.",CZ,CH
 20425,"Mariánské Lázně,Kladská",CZ,CH
 57459,"Mariánské Lázně,,Klas",CZ,CH
@@ -17746,6 +17845,7 @@ stop_id,stop_name,stat,okres
 57449,"Mariánské Lázně,Úšovice,Antoníčkův pramen",CZ,CH
 57454,"Mariánské Lázně,Úšovice,Černý Most",CZ,CH
 51169,"Mariánské Lázně,Úšovice,dopravní podnik",CZ,CH
+20430,"Mariánské Lázně,Úšovice,Kollárova",CZ,CH
 57461,"Mariánské Lázně,Úšovice,Kovárna",CZ,CH
 57462,"Mariánské Lázně,Úšovice,Lékárna",CZ,CH
 57450,"Mariánské Lázně,Úšovice,Sídliště",CZ,CH
@@ -17909,6 +18009,7 @@ stop_id,stop_name,stat,okres
 20631,"Medový Újezd,,hor.",CZ,RO
 20633,"Medový Újezd,,u pomníku",CZ,RO
 20641,"Medyka,,CLO",PL,
+66615,"Medyka,,granica",PL,
 20651,"Měchenice,,rozc.k žel.st.",CZ,PZ
 20650,Měchenice,CZ,PZ
 21175,"Měcholupy,Milošice",CZ,LN
@@ -18062,12 +18163,16 @@ stop_id,stop_name,stat,okres
 20813,"Město Albrechtice,Hynčice,pošta",CZ,BR
 20815,"Město Albrechtice,Hynčice,rest.",CZ,BR
 20814,"Město Albrechtice,Hynčice,rozc.Dl.Voda",CZ,BR
+20813,"Město Albrechtice,Hynčice,rozc.Valštejn",CZ,BR
+20815,"Město Albrechtice,Hynčice,střed",CZ,BR
+20812,"Město Albrechtice,Hynčice,U rybníčku",CZ,BR
 20803,"Město Albrechtice,,kult.dům",CZ,BR
 20817,"Město Albrechtice,Linhartovy,č.21",CZ,BR
 20818,"Město Albrechtice,Linhartovy,rest.",CZ,BR
 20819,"Město Albrechtice,Linhartovy,rozc.",CZ,BR
 20821,"Město Albrechtice,Opavice,statek",CZ,BR
 20820,"Město Albrechtice,Opavice",CZ,BR
+20803,"Město Albrechtice,,Pod Lipami",CZ,BR
 20805,"Město Albrechtice,,rozc.Burkvíz",CZ,BR
 20804,"Město Albrechtice,,rozc.Dakon",CZ,BR
 20806,"Město Albrechtice,,silo",CZ,BR
@@ -18140,6 +18245,7 @@ stop_id,stop_name,stat,okres
 20893,"Mezina,,rozc.",CZ,BR
 52769,"Mezina,,U lomu",CZ,BR
 20894,"Meziříčí,,rozc.0.5",CZ,TA
+68468,Meziříčí,CZ,TA
 20898,Meziříčko,CZ,TR
 67176,"Meziříčko,,háj.Řehořov",CZ,ZR
 53279,"Meziříčko,,křiž.Černá",CZ,ZR
@@ -18253,6 +18359,8 @@ stop_id,stop_name,stat,okres
 53929,"Milano,,Autostazione Lampugnano via NATTA",I,
 21045,"Milasín,,rozc.0.5",CZ,ZR
 21051,"Milavče,Božkov,rozc.0.5",CZ,DO
+21051,"Milavče,Božkovy,rozcestí",CZ,DO
+21050,"Milavče,Božkovy",CZ,DO
 21050,"Milavče,Božkov",CZ,DO
 21053,"Milavče,Radonice,ovčín",CZ,DO
 21054,"Milavče,Radonice,rozc.0.7",CZ,DO
@@ -18875,6 +18983,7 @@ stop_id,stop_name,stat,okres
 21656,Modrá,CZ,UH
 21680,"Modrava,Filipova Huť",CZ,KT
 21679,Modrava,CZ,KT
+66471,"Modriča,,Autobuska stanica",BiH,
 51608,"Modřice,,Agropodnik",CZ,BO
 63772,"Modřice,Bobrava,motel",CZ,BO
 63773,"Modřice,Bobrava,střed",CZ,BO
@@ -18956,6 +19065,8 @@ stop_id,stop_name,stat,okres
 21757,"Mochtín,Nový Čestín",CZ,KT
 21758,"Mochtín,Srbice,rozc.0.3",CZ,KT
 21752,"Mochtín,,u prodejny",CZ,KT
+21761,"Mochtín,Újezdec,rozcestí",CZ,KT
+21760,"Mochtín,Újezdec,rozc.hlavní silnice",CZ,KT
 21760,"Mochtín,Újezdec,rozc.I 1.6",CZ,KT
 21761,"Mochtín,Újezdec,rozc.II 1.2",CZ,KT
 21759,"Mochtín,Újezdec",CZ,KT
@@ -19819,7 +19930,9 @@ stop_id,stop_name,stat,okres
 22803,"Nejdek,,METALIS",CZ,KV
 22799,"Nejdek,,most",CZ,KV
 22800,"Nejdek,,nám.",CZ,KV
+22806,"Nejdek,Nová Suchá,dolní",CZ,KV
 22806,"Nejdek,Nová Suchá,dol.",CZ,KV
+22807,"Nejdek,Nová Suchá,horní",CZ,KV
 22807,"Nejdek,Nová Suchá,hor.",CZ,KV
 22808,"Nejdek,Nový Fojtov",CZ,KV
 22809,"Nejdek,Pozorka",CZ,KV
@@ -19829,6 +19942,7 @@ stop_id,stop_name,stat,okres
 22811,"Nejdek,Vysoká Štola,rozc.",CZ,KV
 22812,Nejepín,CZ,HB
 22814,"Nekmíř,Lhotka",CZ,PS
+68490,"Nekmíř,,zámek",CZ,PS
 22813,Nekmíř,CZ,PS
 22823,"Nekoř,Bredůvka",CZ,UO
 22823,"Nekoř,,Bredůvka",CZ,UO
@@ -19870,6 +19984,9 @@ stop_id,stop_name,stat,okres
 64362,"Němčice,,Dendera",CZ,BK
 22844,"Němčice,,Jednota",CZ,BK
 22843,Němčice,CZ,BK
+48789,"Němčice,,hrad Nový Herštejn",CZ,DO
+22872,"Němčice,Úlíkov,rozcestí",CZ,DO
+22870,Němčice,CZ,DO
 22846,"Němčice,,náves",CZ,KM
 22847,"Němčice,,rozc.",CZ,KM
 22848,Němčice,CZ,KO
@@ -20040,6 +20157,7 @@ stop_id,stop_name,stat,okres
 23068,"Netvořice,,u vrby",CZ,BN
 23075,"Netvořice,,Vojtěchov",CZ,BN
 23076,"Netvořice,Všetice",CZ,BN
+23066,Netvořice,CZ,BN
 23077,"Neu Nagelberg,,ZOLL",A,
 23078,"Neubuz,,Obecní úřad",CZ,ZL
 23079,"Neubuz,,zast.",CZ,ZL
@@ -20589,10 +20707,13 @@ stop_id,stop_name,stat,okres
 23939,"Nové Sedlo,Jalový Dvůr",CZ,SO
 23933,"Nové Sedlo,,kino",CZ,SO
 23942,"Nové Sedlo,Loučky,rozc.",CZ,SO
+23943,"Nové Sedlo,Loučky,závod",CZ,SO
 23943,"Nové Sedlo,Loučky,záv.",CZ,SO
 23941,"Nové Sedlo,Loučky",CZ,SO
 65321,"Nové Sedlo,,nádraží",CZ,SO
+68443,"Nové Sedlo,Nové Loučky",CZ,SO
 23934,"Nové Sedlo,,pošta",CZ,SO
+23933,"Nové Sedlo,,Příkopy",CZ,SO
 23935,"Nové Sedlo,,rozc.",CZ,SO
 23944,Nové Spořice,CZ,CV
 51845,"Nové Strašecí,,Karlovarská",CZ,RA
@@ -20631,6 +20752,7 @@ stop_id,stop_name,stat,okres
 24020,"Novosedly nad Nežárkou,Mláka,Velká",CZ,JH
 24016,"Novosedly nad Nežárkou,,ObÚ",CZ,JH
 24021,"Novosedly nad Nežárkou,Stradinky,Jednoty",CZ,JH
+24016,"Novosedly nad Nežárkou,,u kostela",CZ,JH
 24022,"Novosedly nad Nežárkou,Žabice",CZ,JH
 24015,Novosedly nad Nežárkou,CZ,JH
 24007,"Novosedly,,cihelna",CZ,BV
@@ -20720,6 +20842,7 @@ stop_id,stop_name,stat,okres
 24128,"Nový Jičín,,aut.nádr.",CZ,NJ
 24129,"Nový Jičín,,Autopal",CZ,NJ
 24131,"Nový Jičín,,Bezručova",CZ,NJ
+24160,"Nový Jičín,Bludovice,Fojtství",CZ,NJ
 24160,"Nový Jičín,Bludovice,samoobsluha",CZ,NJ
 24161,"Nový Jičín,Bludovice,škola",CZ,NJ
 24162,"Nový Jičín,Bludovice,závod",CZ,NJ
@@ -20876,6 +20999,7 @@ stop_id,stop_name,stat,okres
 24299,"Nýdek,Střelmá,Pod Sošovem",CZ,FM
 24298,"Nýdek,Střelmá",CZ,FM
 67329,"Nyírábrány,,ZOLL",H,
+68471,"Nyklovice,,u kapličky",CZ,ZR
 24303,Nyklovice,CZ,ZR
 64253,"Nyköping,,Bensinstation Shell",S,
 55588,"Nymburk,,Albert hypermarket",CZ,NB
@@ -20900,6 +21024,7 @@ stop_id,stop_name,stat,okres
 55584,"Nymburk,,Lipová",CZ,NB
 24316,"Nymburk,,lokomotivní depo",CZ,NB
 55585,"Nymburk,,Maršála Koněva",CZ,NB
+68383,"Nymburk,,Na Hroudách",CZ,NB
 24318,"Nymburk,,nám.",CZ,NB
 24324,"Nymburk,,nemocnice",CZ,NB
 24321,"Nymburk,,poliklinika",CZ,NB
@@ -20914,16 +21039,20 @@ stop_id,stop_name,stat,okres
 24327,"Nymburk,,Zálabská",CZ,NB
 55590,"Nymburk,,zimní stadion",CZ,NB
 24341,Nýrov,CZ,BK
+24351,"Nýrsko,Bystřice nad Úhlavou,náves",CZ,KT
+24352,"Nýrsko,Bystřice nad Úhlavou,rozcestí",CZ,KT
 24351,"Nýrsko,Bystřice n.Úhl.,náves",CZ,KT
 24352,"Nýrsko,Bystřice n.Úhl.,rozc.0.3",CZ,KT
 24353,"Nýrsko,Hodousice",CZ,KT
 24346,"Nýrsko,,Komenského",CZ,KT
 24347,"Nýrsko,,nám.",CZ,KT
+24349,"Nýrsko,,Pod Mezí",CZ,KT
 24348,"Nýrsko,,samoty",CZ,KT
 24354,"Nýrsko,Starý Láz,rozc.0.5",CZ,KT
 24349,"Nýrsko,,u žel.st.0.3",CZ,KT
 24356,"Nýrsko,Zelená Lhota,host.",CZ,KT
 24357,"Nýrsko,Zelená Lhota,lesnická škola",CZ,KT
+24358,"Nýrsko,Zelená Lhota,rozcestí k nádraží",CZ,KT
 24358,"Nýrsko,Zelená Lhota,žel.st.rozc.1.0",CZ,KT
 24355,"Nýrsko,Zelená Lhota",CZ,KT
 24360,"Nýřany,,DIOSS rozc.",CZ,PS
@@ -20944,7 +21073,9 @@ stop_id,stop_name,stat,okres
 24373,Občov,CZ,PB
 24377,"Obecnice,,důl",CZ,PB
 24381,"Obecnice,Oseč,háj.",CZ,PB
+24381,"Obecnice,Oseč,Pod Třemošnou",CZ,PB
 24380,"Obecnice,Oseč",CZ,PB
+24377,"Obecnice,,Šachta",CZ,PB
 24378,"Obecnice,,u Dušků",CZ,PB
 24379,"Obecnice,,u Hlinovky",CZ,PB
 24376,Obecnice,CZ,PB
@@ -20964,6 +21095,7 @@ stop_id,stop_name,stat,okres
 24390,"Obora,,žel.st.",CZ,PS
 24388,Obora,CZ,PS
 24397,"Obora,Dolní Výšina,rozc.",CZ,TC
+68488,"Obora,Dolní Výšina,v.n.Lučina",CZ,TC
 24396,"Obora,Dolní Výšina",CZ,TC
 24393,"Obora,,mlýn",CZ,TC
 24394,"Obora,,samoty",CZ,TC
@@ -21082,6 +21214,7 @@ stop_id,stop_name,stat,okres
 24552,"Ochoz u Brna,,rest.u Votruby",CZ,BO
 24553,"Ochoz u Brna,,rozc.Kanice",CZ,BO
 24554,"Ochoz u Brna,Říčky,rozc.",CZ,BO
+24552,"Ochoz u Brna,,U Votrubů",CZ,BO
 24556,Ochoz u Tišnova,CZ,BO
 24546,Ochoz,CZ,PV
 24561,"Okarec,,rozc.1.0",CZ,TR
@@ -21150,13 +21283,17 @@ stop_id,stop_name,stat,okres
 24642,"Olbramkostel,,žel.st.",CZ,ZN
 24644,"Olbramov,,lesní školka",CZ,TC
 24643,Olbramov,CZ,TC
+68476,"Olbramovice,,Košát-obchvat",CZ,BN
 24649,"Olbramovice,Křešice",CZ,BN
 49326,"Olbramovice,,parcely",CZ,BN
 24650,"Olbramovice,,rozc.Slavkov",CZ,BN
+68498,"Olbramovice,,rozc.Tomice II",CZ,BN
 24652,"Olbramovice,,rozc.Zahradnice",CZ,BN
 24647,"Olbramovice,,STS",CZ,BN
 24651,"Olbramovice,Tomice II",CZ,BN
+24645,"Olbramovice,,u svatých",CZ,BN
 24646,"Olbramovice,,Veselka",CZ,BN
+68477,"Olbramovice,,Ves",CZ,BN
 24648,"Olbramovice,,žel.st.",CZ,BN
 24645,Olbramovice,CZ,BN
 24654,"Olbramovice,,prodejna",CZ,ZN
@@ -21270,6 +21407,7 @@ stop_id,stop_name,stat,okres
 50026,"Olomouc,,Frajtovo nám.",CZ,OL
 49335,"Olomouc,,Globus",CZ,OL
 51458,"Olomouc,,Gymnázium Hejčín",CZ,OL
+24756,"Olomouc,,Hamerská ADM",CZ,OL
 24756,"Olomouc,,Hamerská MILO",CZ,OL
 24755,"Olomouc,,Hamerská",CZ,OL
 24751,"Olomouc,,hl.nádr.",CZ,OL
@@ -21334,6 +21472,7 @@ stop_id,stop_name,stat,okres
 57004,"Olomouc,,Palackého",CZ,OL
 55453,"Olomouc,,Panelárna",CZ,OL
 50034,"Olomouc,,Pasteurova",CZ,OL
+67230,"Olomouc,,Pavelkova JTEKT",CZ,OL
 67230,"Olomouc,,Pavelkova Koyo",CZ,OL
 56989,"Olomouc,,Pavlovická",CZ,OL
 24790,"Olomouc,Pavlovičky",CZ,OL
@@ -21364,6 +21503,7 @@ stop_id,stop_name,stat,okres
 24796,"Olomouc,Slavonín,KOVO",CZ,OL
 44979,"Olomouc,Slavonín,křiž.",CZ,OL
 55459,"Olomouc,,Slavonínská",CZ,OL
+24796,"Olomouc,Slavonín,Zolova",CZ,OL
 47537,"Olomouc,,Smetanovy sady",CZ,OL
 55699,"Olomouc,,Staškova",CZ,OL
 50027,"Olomouc,,Stratilova",CZ,OL
@@ -21479,6 +21619,7 @@ stop_id,stop_name,stat,okres
 24883,"Onšov,Těškovice,rozc.",CZ,PE
 24882,"Onšov,Těškovice",CZ,PE
 24881,Onšov,CZ,PE
+68434,"Onšov,,ObÚ",CZ,ZN
 65344,"Onšov,,přístaviště lodní dopravy",CZ,ZN
 24884,"Onšov,,rozc.0.2",CZ,ZN
 24888,"Opařany,,aut.st.",CZ,TA
@@ -21581,6 +21722,7 @@ stop_id,stop_name,stat,okres
 51008,"Opava,Milostovice,6.května",CZ,OP
 24942,"Opava,,Mírová",CZ,OP
 51019,"Opava,,Mostní",CZ,OP
+24943,"Opava,,Nákladní - Witzenmann",CZ,OP
 24943,"Opava,,Nákladní",CZ,OP
 24944,"Opava,,Nemocnice",CZ,OP
 24946,"Opava,,Olbrichova",CZ,OP
@@ -22425,6 +22567,7 @@ stop_id,stop_name,stat,okres
 25512,"Ostrov,,jídelna",CZ,KV
 25528,"Ostrov,Kfely,rest.",CZ,KV
 25529,"Ostrov,Kfely,rozc.0.2",CZ,KV
+25529,"Ostrov,Kfely,rozc.",CZ,KV
 47063,"Ostrov,,Krušnohorská",CZ,KV
 25531,"Ostrov,Květnová,škola",CZ,KV
 25530,"Ostrov,Květnová",CZ,KV
@@ -22467,6 +22610,7 @@ stop_id,stop_name,stat,okres
 25564,"Ostrovec,Dolní Úvěrka",CZ,PI
 25565,"Ostrovec,Horní Ostrovec",CZ,PI
 25566,"Ostrovec,,rozc.1.0",CZ,RO
+25566,Ostrovec-Lhotka,CZ,RO
 25568,"Ostrožská Lhota,,Jednota",CZ,UH
 25567,"Ostrožská Lhota,,Obecní úřad",CZ,UH
 25574,"Ostrožská Nová Ves,Chylice",CZ,UH
@@ -22556,6 +22700,7 @@ stop_id,stop_name,stat,okres
 28310,"Otradov,,odb.Miřetín",CZ,CR
 25671,Otradov,CZ,CR
 25677,"Otročín,Brť,rozc.1.0",CZ,KV
+25677,"Otročín,Brť,rozc.",CZ,KV
 25676,"Otročín,Brť",CZ,KV
 46243,"Otročín,Měchov,rozc.",CZ,KV
 25679,"Otročín,Měchov,U Křížů",CZ,KV
@@ -23112,6 +23257,7 @@ stop_id,stop_name,stat,okres
 49497,"Pelhřimov,,Říčanského IV",CZ,PE
 57540,"Pelhřimov,,SBD",CZ,PE
 26216,"Pelhřimov,,silo",CZ,PE
+68479,"Pelhřimov,Skrýšov,kaplička",CZ,PE
 26263,"Pelhřimov,Skrýšov",CZ,PE
 26265,"Pelhřimov,Služátky,rozc.1.0",CZ,PE
 26264,"Pelhřimov,Služátky",CZ,PE
@@ -23166,6 +23312,7 @@ stop_id,stop_name,stat,okres
 26290,Pernarec,CZ,PS
 26303,"Pernink,,rozc.k žel.st.",CZ,KV
 26306,"Pernink,Rybná,rozc.1.5",CZ,KV
+26306,"Pernink,Rybná,rozc.",CZ,KV
 26305,"Pernink,,škola",CZ,KV
 26304,"Pernink,,školní louka",CZ,KV
 26308,"Pernštejnské Jestřabí,Jilmoví,rozc.",CZ,BO
@@ -23336,6 +23483,7 @@ stop_id,stop_name,stat,okres
 26473,"Petřvald,,kaple",CZ,KA
 26474,"Petřvald,,lékárna",CZ,KA
 49994,"Petřvald,,likérka",CZ,KA
+68480,"Petřvald,,Marjánka",CZ,KA
 26479,"Petřvald,,Na kopci",CZ,KA
 26477,"Petřvald,,Parcelace",CZ,KA
 51285,"Petřvald,,Pod Sokolovnou",CZ,KA
@@ -23595,6 +23743,7 @@ stop_id,stop_name,stat,okres
 26800,"Plasy,Nebřeziny,rozc.1.0",CZ,PS
 26799,"Plasy,Nebřeziny",CZ,PS
 26789,"Plasy,,Panholec",CZ,PS
+26790,"Plasy,,Pod Nádražím",CZ,PS
 26801,"Plasy,Sokolka",CZ,PS
 58416,"Plasy,,u školy",CZ,PS
 26803,"Plasy,Žebnice,rozc.",CZ,PS
@@ -23865,6 +24014,7 @@ stop_id,stop_name,stat,okres
 50754,"Plzeň,,Rozcestí Újezd",CZ,PM
 66980,"Plzeň,,Říjnová",CZ,PM
 54527,"Plzeň,,Sady Pětatřicátníků",CZ,PM
+68469,"Plzeň,,Safírová",CZ,PM
 57143,"Plzeň,,Samaritská",CZ,PM
 57144,"Plzeň,,Severka",CZ,PM
 53219,"Plzeň,,Severní",CZ,PM
@@ -24094,6 +24244,7 @@ stop_id,stop_name,stat,okres
 27182,"Podhradí,,Marak",CZ,CH
 27184,"Podhradí,Smrčina,drůbežárna",CZ,CH
 27183,"Podhradí,Smrčina",CZ,CH
+27181,"Podhradí,,závod",CZ,CH
 27181,"Podhradí,,záv.",CZ,CH
 27180,Podhradí,CZ,CH
 27187,"Podhradí,Čejkovice",CZ,JC
@@ -24121,10 +24272,14 @@ stop_id,stop_name,stat,okres
 27213,Podkopná Lhota,CZ,ZL
 27249,"Podlesice,,školka",CZ,CV
 27248,Podlesice,CZ,CV
+27240,"Podlesí,,Dubová hora",CZ,PB
 27240,"Podlesí,,Nové háj.",CZ,PB
+27239,"Podlesí,,Nové Podlesí",CZ,PB
 27239,"Podlesí,,Nové",CZ,PB
 27242,"Podlesí,,Staré II",CZ,PB
 27241,"Podlesí,,Staré I",CZ,PB
+27242,"Podlesí,,u vrby",CZ,PB
+27241,Podlesí,CZ,PB
 27245,"Podlesí,Němčí",CZ,UO
 27246,"Podlesí,Olešná",CZ,UO
 27247,"Podlesí,Turov",CZ,UO
@@ -24324,6 +24479,9 @@ stop_id,stop_name,stat,okres
 38170,"Poličná,,u háje",CZ,VS
 27493,"Polkovice,,rest.",CZ,PR
 27494,"Polkovice,,rozc.",CZ,PR
+1994,"Polná na Šumavě,Květušín",CZ,CK
+1991,"Polná na Šumavě,,Lštín",CZ,CK
+1995,Polná na Šumavě,CZ,CK
 27495,"Polná,,aut.st.",CZ,JI
 27503,"Polná,Hrbov",CZ,JI
 27504,"Polná,Janovice",CZ,JI
@@ -24344,6 +24502,7 @@ stop_id,stop_name,stat,okres
 27512,"Polnička,,u kříže",CZ,ZR
 50559,"Polnička,,u mostku",CZ,ZR
 27518,"Polom,,pošta",CZ,PR
+844,"Polom,,rozc.k Lučicím",CZ,PR
 27519,"Polom,,rozc.k žel.st.",CZ,PR
 27522,"Polom,,odb.Sudslava",CZ,RK
 27521,Polom,CZ,RK
@@ -24395,6 +24554,7 @@ stop_id,stop_name,stat,okres
 27603,"Popovičky,Nebřenice",CZ,PH
 27601,"Popovičky,,rozc.",CZ,PH
 27604,"Poprad,,AS",SK,PP
+45070,"Poprad,,Dom kultúry",SK,PP
 27615,"Popudinské Močidľany,,rázc.",SK,SI
 51583,"Popůvky,,náves",CZ,BO
 27617,"Popůvky,,Vintrovna",CZ,BO
@@ -25338,6 +25498,7 @@ stop_id,stop_name,stat,okres
 55232,"Praha,,Obchodní centrum Černý Most",CZ,AB
 60208,"Praha,,Obchodní centrum Hostivař",CZ,AB
 67478,"Praha,,Obchodní centrum Chuchle",CZ,AB
+68481,"Praha,,Obchodní centrum Lipence",CZ,AB
 58919,"Praha,,Obchodní centrum Ruzyně",CZ,AB
 65023,"Praha,,Obchodní centrum Sárská",CZ,AB
 55552,"Praha,,Obchodní centrum Štěrboholy",CZ,AB
@@ -26061,6 +26222,7 @@ stop_id,stop_name,stat,okres
 8463,"Prášily,Skelná",CZ,KT
 49538,"Prášily,Slučí Tah,háj.",CZ,KT
 28104,"Prášily,,Slunečná",CZ,KT
+32645,"Prášily,Velký Bor",CZ,KT
 28101,Prášily,CZ,KT
 28119,"Pravčice,,aut.st.",CZ,KM
 28120,"Pravčice,,rozc.0.5",CZ,KM
@@ -26083,6 +26245,7 @@ stop_id,stop_name,stat,okres
 28165,"Predajná,,pri moste",SK,BR
 64572,Preming,D,
 46307,"Preševo,,ZOLL",SRB,
+52635,"Prešov,,AS MHD žel.st.",SK,PO
 28183,"Prešov,,AS",SK,PO
 64568,"Preying,,Abzw",D,
 28277,"Prievidza,,aut.st.",SK,PD
@@ -26590,8 +26753,12 @@ stop_id,stop_name,stat,okres
 28789,"Příbram na Moravě,Brodek",CZ,BO
 28790,"Příbram na Moravě,,Jednota",CZ,BO
 28791,"Příbram na Moravě,,rozc.2.0",CZ,BO
+48807,"Příbram,,Archiv",CZ,PB
+52842,"Příbram,,aut.nádr. (ul. Čs.armády)",CZ,PB
 28798,"Příbram,,aut.nádr.",CZ,PB
 28799,"Příbram,,Balbínova",CZ,PB
+64943,"Příbram,,Barandov",CZ,PB
+28829,"Příbram,Brod,DIAMO",CZ,PB
 55421,"Příbram,Brod,obec",CZ,PB
 28836,"Příbram,Brod",CZ,PB
 52837,"Příbram,Břez.Hory,K.Pobudy",CZ,PB
@@ -26601,11 +26768,19 @@ stop_id,stop_name,stat,okres
 28840,"Příbram,Břez.Hory,rozc.Zdaboř",CZ,PB
 50570,"Příbram,Břez.Hory,Rožmitálská",CZ,PB
 55510,"Příbram,Břez.Hory,stadión",CZ,PB
+65351,"Příbram,Březové Hory,domov seniorů",CZ,PB
+52837,"Příbram,Březové Hory,Karla Pobudy",CZ,PB
+52838,"Příbram,Březové Hory,Mariánská",CZ,PB
+28839,"Příbram,Březové Hory,nám.",CZ,PB
+50570,"Příbram,Březové Hory,Rožmitálská",CZ,PB
+55510,"Příbram,Březové Hory,stadion",CZ,PB
+28840,"Příbram,Březové Hory",CZ,PB
 28843,"Příbram,Bytíz,šachta",CZ,PB
 55424,"Příbram,Bytíz,úpravna jih",CZ,PB
 55425,"Příbram,Bytíz,úpravna sever",CZ,PB
 52840,"Příbram,Bytíz,věznice",CZ,PB
 28842,"Příbram,Bytíz",CZ,PB
+28802,"Příbram,,Československé armády",CZ,PB
 28802,"Příbram,,Čs.armády",CZ,PB
 52841,"Příbram,,DISA",CZ,PB
 52842,"Příbram,,Dolejší Obora",CZ,PB
@@ -26613,16 +26788,26 @@ stop_id,stop_name,stat,okres
 50760,"Příbram,Drkolnov,Podbrdská",CZ,PB
 28796,"Příbram,Drkolnov,Slunná",CZ,PB
 28797,"Příbram,Drkolnov,Šachetní",CZ,PB
+50760,"Příbram,,Drkolnov",CZ,PB
+52854,"Příbram,,Evropská",CZ,PB
 28804,"Příbram,,Fibichova",CZ,PB
+53236,"Příbram,,Hájecká",CZ,PB
+52858,"Příbram,,Hornických učňů",CZ,PB
 50287,"Příbram,,Hořejší Obora",CZ,PB
+28832,"Příbram,,III.poliklinika",CZ,PB
+48108,"Příbram,,II.poliklinika",CZ,PB
 28845,"Příbram,Jerusalem",CZ,PB
 28818,"Příbram,Jesenice II,rozc.1.0",CZ,PB
+28818,"Příbram,Jesenice",CZ,PB
+28820,"Příbram,,Jestřabinec",CZ,PB
 28809,"Příbram,,Jinecká",CZ,PB
 28807,"Příbram,,Jiráskovy sady",CZ,PB
 28819,"Příbram,,K Podlesí",CZ,PB
 50569,"Příbram,,Kaufland",CZ,PB
+49245,"Příbram,,Kladenská",CZ,PB
 54523,"Příbram,,Koperníkova Na Hvězdičce",CZ,PB
 54522,"Příbram,,Koperníkova rozc.Pod Hvězdárnou",CZ,PB
+54523,"Příbram,,Koperníkova",CZ,PB
 18067,"Příbram,,Kovohutě",CZ,PB
 52843,"Příbram,Kozičín",CZ,PB
 52844,"Příbram,Lazec",CZ,PB
@@ -26633,24 +26818,35 @@ stop_id,stop_name,stat,okres
 28833,"Příbram,,Mixova",CZ,PB
 52846,"Příbram,,Na Cihelně",CZ,PB
 52847,"Příbram,,nám.T.G.M.",CZ,PB
+28811,"Příbram,,nám.17.listopadu",CZ,PB
 52848,"Příbram,,Nemocnice",CZ,PB
+52849,"Příbram,,Nová Hospoda Polní",CZ,PB
 52849,"Příbram,,Nová Hospoda vilová čtvrť",CZ,PB
 28847,"Příbram,,Nová Hospoda",CZ,PB
 68052,"Příbram,,Nový rybník",CZ,PB
 46316,"Příbram,,Obecnická",CZ,PB
+48777,"Příbram,,Obecnická",CZ,PB
 52852,"Příbram,Orlov,kaplička",CZ,PB
 52851,"Příbram,Orlov,U Kříže",CZ,PB
 52850,"Příbram,Orlov",CZ,PB
-52854,"Příbram,,Pod Hvězdičkou",CZ,PB
+46316,"Příbram,,Plynárenská",CZ,PB
+55422,"Příbram,,Plzeňská",CZ,PB
+54522,"Příbram,,Pod Hvězdárnou",CZ,PB
+52856,"Příbram,,pod Kaňkou",CZ,PB
+50761,"Příbram,,Podbrdská",CZ,PB
+28814,"Příbram,,Politických vězňů",CZ,PB
 28835,"Příbram,,Pragovka",CZ,PB
+48806,"Příbram,,průmyslová zóna",CZ,PB
 48806,"Příbram,,prům.zóna",CZ,PB
 52855,"Příbram,,RAVAK a.s.",CZ,PB
+52855,"Příbram,,RAVAK",CZ,PB
 28820,"Příbram,,rozc.k šachtě 9",CZ,PB
 52856,"Příbram,,rozc.pod Kaňkou",CZ,PB
 48777,"Příbram,,rozc.",CZ,PB
 64943,"Příbram,,Sázky Barandov",CZ,PB
 52874,"Příbram,,Sázky rozc.",CZ,PB
 28823,"Příbram,,Sázky",CZ,PB
+49267,"Příbram,,Seifertova",CZ,PB
 28826,"Příbram,,Sevastopolské nám.",CZ,PB
 48807,"Příbram,,sídl.Archiv",CZ,PB
 48108,"Příbram,,sídl.II.poliklinika",CZ,PB
@@ -26659,11 +26855,14 @@ stop_id,stop_name,stat,okres
 28815,"Příbram,,sídl.Politických vězňů věžák",CZ,PB
 28814,"Příbram,,sídl.Politických vězňů",CZ,PB
 49267,"Příbram,,sídl.Seifertova",CZ,PB
+52874,"Příbram,,Slivických bojovníků",CZ,PB
+28796,"Příbram,,Slunná",CZ,PB
 28827,"Příbram,,Stadion Horymír",CZ,PB
 52858,"Příbram,,Stalingrad",CZ,PB
 62586,"Příbram,,stanice ČD",CZ,PB
 52876,"Příbram,,Svatá Hora areál",CZ,PB
 28828,"Příbram,,Svatá Hora",CZ,PB
+28797,"Příbram,,Šachetní",CZ,PB
 28829,"Příbram,,šachta 15",CZ,PB
 28832,"Příbram,,Školní III.poliklinika",CZ,PB
 48109,"Příbram,,Školní kruhový objezd",CZ,PB
@@ -26681,8 +26880,11 @@ stop_id,stop_name,stat,okres
 49268,"Příbram,Zdaboř,Žežická",CZ,PB
 28848,"Příbram,Zdaboř",CZ,PB
 52868,"Příbram,Žežice,Beránky",CZ,PB
+52869,"Příbram,Žežice,u křížku",CZ,PB
 52869,"Příbram,Žežice,u pomníčku",CZ,PB
+52868,"Příbram,Žežice,Žežičky",CZ,PB
 52867,"Příbram,Žežice",CZ,PB
+28827,"Příbram,,Žižkova",CZ,PB
 28853,"Příbraz,,hráz",CZ,JH
 28852,Příbraz,CZ,JH
 28854,"Přibyslav,,Agrozet",CZ,HB
@@ -26805,13 +27007,16 @@ stop_id,stop_name,stat,okres
 28973,"Pšov,Chlum,rozc.",CZ,KV
 28972,"Pšov,Chlum",CZ,KV
 28976,"Pšov,Kobylé,rozc.St.statek 1",CZ,KV
+28976,"Pšov,Kobylé,střelnice",CZ,KV
 28974,"Pšov,Kobylé",CZ,KV
 28977,"Pšov,Kolešov",CZ,KV
 28979,"Pšov,Močidlec",CZ,KV
 64339,"Pšov,Novosedly,rozc.",CZ,KV
 28980,"Pšov,Novosedly",CZ,KV
 28970,"Pšov,,rozc.1.0",CZ,KV
+28970,"Pšov,,rozc.",CZ,KV
 28982,"Pšov,Semtěš,rozc.0.5",CZ,KV
+28982,"Pšov,Semtěš,rozc.",CZ,KV
 28981,"Pšov,Semtěš",CZ,KV
 47198,"Pšov,Víska",CZ,KV
 28969,Pšov,CZ,KV
@@ -27433,6 +27638,7 @@ stop_id,stop_name,stat,okres
 56817,Rojetín,CZ,BO
 65596,"Rokle,Hradec,rozvodna",CZ,CV
 65595,"Rokle,Hradec",CZ,CV
+42662,"Rokle,Želina,rozc.",CZ,CV
 29925,Rokle,CZ,CV
 29927,"Rokycany,,aut.nádr.",CZ,RO
 29928,"Rokycany,,Barákova",CZ,RO
@@ -27569,9 +27775,12 @@ stop_id,stop_name,stat,okres
 30040,"Rosička,,cihelna",CZ,JH
 30039,Rosička,CZ,JH
 30042,Rosička,CZ,ZR
+30050,"Rosovice,,dolní Holšiny",CZ,PB
 30052,"Rosovice,,Holšiny III rozc.1.0",CZ,PB
 30051,"Rosovice,,Holšiny II",CZ,PB
 30050,"Rosovice,,Holšiny I",CZ,PB
+30051,"Rosovice,,Holšiny",CZ,PB
+30052,"Rosovice,,Kamenný Dvůr",CZ,PB
 30053,"Rosovice,Sychrov",CZ,PB
 30048,Rosovice,CZ,PB
 30056,"Rostěnice-Zvonovice,Rostěnice,náves",CZ,VY
@@ -27680,6 +27889,7 @@ stop_id,stop_name,stat,okres
 30165,"Rovečné,,rozc.",CZ,ZR
 30166,"Rovečné,,sušárna ZD",CZ,ZR
 30167,"Rovečné,,u školy",CZ,ZR
+68472,"Rovečné,,zdrav.stř.",CZ,ZR
 30164,Rovečné,CZ,ZR
 30176,"Rovensko pod Troskami,Blatec",CZ,SM
 49362,"Rovensko pod Troskami,,Na Paldě",CZ,SM
@@ -28193,6 +28403,7 @@ stop_id,stop_name,stat,okres
 30750,"Rynoltice,,kult.dům",CZ,LI
 30751,"Rynoltice,,ObÚ",CZ,LI
 30755,"Ryžoviště,,nám.",CZ,BR
+63235,"Rzeszów,,airport",PL,
 30756,"Rzeszów,,dw.aut.",PL,
 58399,"Rzeszów,,dw.PKP Plac Dworcowy",PL,
 64611,"Rzeszów,,dw.PKS ul.Grottera 9",PL,
@@ -28296,13 +28507,18 @@ stop_id,stop_name,stat,okres
 51873,"Říčany,,Černokostelecká",CZ,PH
 56820,"Říčany,,Fibichova",CZ,PH
 46377,"Říčany,,hřbitov",CZ,PH
+47894,"Říčany,Jažlovice,Zděbrady",CZ,PH
 30855,"Říčany,Jažlovice",CZ,PH
 30844,"Říčany,,k žel.st.",CZ,PH
 50929,"Říčany,,Komenského nám.",CZ,PH
 30843,"Říčany,,Kuříčko",CZ,PH
+30843,"Říčany,Kuří,Kuříčko",CZ,PH
 30858,"Říčany,Kuří",CZ,PH
 52644,"Říčany,,Marvánek",CZ,PH
 67231,"Říčany,,Masarykovo nám. - Na Růžku",CZ,PH
+66294,"Říčany,,Masarykovo nám.MHD",CZ,PH
+67231,"Říčany,,Masarykovo nám.-Růžek",CZ,PH
+30845,"Říčany,,Masarykovo nám.",CZ,PH
 66294,"Říčany,,Masarykovo nám.",CZ,PH
 66248,"Říčany,,Melantrichova",CZ,PH
 66241,"Říčany,,Mozartova",CZ,PH
@@ -28328,6 +28544,14 @@ stop_id,stop_name,stat,okres
 66427,"Říčany,,Politických vězňů",CZ,PH
 30846,"Říčany,,Prům.areál Černokostelecká",CZ,PH
 47894,"Říčany,,Prům.zóna Zděbrady",CZ,PH
+30844,"Říčany,Radošovice,Haškova",CZ,PH
+66241,"Říčany,Radošovice,Mozartova",CZ,PH
+30852,"Říčany,Radošovice,podjezd",CZ,PH
+66239,"Říčany,Radošovice,Rokytka",CZ,PH
+30851,"Říčany,Radošovice,sokolovna",CZ,PH
+30854,"Říčany,Radošovice,Větrník",CZ,PH
+66240,"Říčany,Radošovice,vojenské velitelství",CZ,PH
+30848,"Říčany,Radošovice,ZŠ Bezručova",CZ,PH
 30847,"Říčany,,Rychta",CZ,PH
 46382,"Říčany,,Sídl.Olivovna",CZ,PH
 30848,"Říčany,,Spojovací ZŠ",CZ,PH
@@ -28445,6 +28669,7 @@ stop_id,stop_name,stat,okres
 32656,"Sankt Margrethen,,ZOLL",CH,
 47693,"Sány,,otočka",CZ,NB
 30978,Sány,CZ,NB
+66464,"Sarajevo,,Autobuska stanica",BiH,
 68172,"Sarata,,AS",UA,
 64272,"Sarny,,AS",UA,
 67484,"Sarpsborg,,Torsbekkveien",N,
@@ -28605,6 +28830,7 @@ stop_id,stop_name,stat,okres
 31166,"Sedlec-Prčice,,rozc.Přestavlky",CZ,PB
 31167,"Sedlec-Prčice,,rozc.Rohov",CZ,PB
 51445,"Sedlec-Prčice,Staré Mitrovice",CZ,PB
+68454,"Sedlec-Prčice,Sušetice,U Šiků",CZ,PB
 31180,"Sedlec-Prčice,Sušetice",CZ,PB
 31168,"Sedlec-Prčice,,u Milotů",CZ,PB
 31181,"Sedlec-Prčice,Uhřice",CZ,PB
@@ -28835,6 +29061,7 @@ stop_id,stop_name,stat,okres
 64544,"Schweinhütt,,Kapelle",D,
 31502,"Sibiu,,autogara Turnisor",RO,
 64665,"Sibiu,,Petrol station OMV",RO,
+68474,"Sibřina,,Na Paloučku",CZ,PH
 31505,"Sibřina,Stupice",CZ,PH
 31504,"Sibřina,,škola",CZ,PH
 58719,"Sibřina,,Zahradní",CZ,PH
@@ -29276,6 +29503,7 @@ stop_id,stop_name,stat,okres
 32056,"Slavoňov,,kostel",CZ,NA
 32055,"Slavoňov,,střed",CZ,NA
 67919,"Slavonski Brod,,Autobusni kolodvor",HR,
+66474,"Slavonski Šamac,,ZOLL",HR,
 32061,"Slavošov,Hranice",CZ,KH
 32060,"Slavošov,Věžníkov,rozc.",CZ,KH
 32062,"Slavošov,Věžníkov",CZ,KH
@@ -29540,6 +29768,8 @@ stop_id,stop_name,stat,okres
 32445,"Sobotovice,,transformátor",CZ,BO
 32443,Sobotovice,CZ,BO
 32446,"Sobrance,,aut.st.",SK,SO
+68484,"Sobůlky,,hřbitov",CZ,HO
+32448,"Sobůlky,,škola",CZ,HO
 32448,"Sobůlky,,ZD",CZ,HO
 32447,Sobůlky,CZ,HO
 32450,"Södertälje,,Scandic Hotel",S,
@@ -29682,6 +29912,7 @@ stop_id,stop_name,stat,okres
 32637,"Srch,Pohránov",CZ,PA
 51904,"Srch,,točna",CZ,PA
 32641,"Srní,Antýgl",CZ,KT
+68489,"Srní,,hasičská zbrojnice",CZ,KT
 32640,"Srní,,chata Povydří",CZ,KT
 32643,"Srní,Mechov",CZ,KT
 32639,"Srní,,penzion Zvoneček",CZ,KT
@@ -29733,6 +29964,7 @@ stop_id,stop_name,stat,okres
 67088,"Stáj,,rozc.Chroustov",CZ,JI
 32683,Stáj,CZ,JI
 32686,Stálky,CZ,ZN
+54923,"Stanca,,ZOLL",RO,
 32695,"Staňkov,Krchleby,II",CZ,DO
 32694,"Staňkov,Krchleby,I",CZ,DO
 32688,"Staňkov,,nám.",CZ,DO
@@ -29816,6 +30048,7 @@ stop_id,stop_name,stat,okres
 32861,"Stará Voda,,zvonice",CZ,HK
 32864,"Stará Voda,,křiž.",CZ,CH
 32867,"Stará Voda,Sekerské Chalupy",CZ,CH
+32866,"Stará Voda,,závod",CZ,CH
 32866,"Stará Voda,,záv.",CZ,CH
 32863,Stará Voda,CZ,CH
 50655,"Stara Zagora,,AN",BG,
@@ -29988,6 +30221,7 @@ stop_id,stop_name,stat,okres
 33053,"Starý Jičín,Starojická Lhota,u hřiště",CZ,NJ
 33042,"Starý Jičín,,škola",CZ,NJ
 33054,"Starý Jičín,Vlčnov,rozc.",CZ,NJ
+68491,"Starý Kolín,,žel.zast.",CZ,KO
 33055,Starý Kolín,CZ,KO
 57820,"Starý Mateřov,,křiž.",CZ,PA
 33056,"Starý Mateřov,,náves",CZ,PA
@@ -30092,6 +30326,7 @@ stop_id,stop_name,stat,okres
 33157,"Stod,,cihelna",CZ,PJ
 33163,"Stod,,Kotovická",CZ,PJ
 33165,"Stod,Lelov",CZ,PJ
+33160,"Stod,,Nádražní",CZ,PJ
 33159,"Stod,,předměstí",CZ,PJ
 33160,"Stod,,rozc.k žel.st.0.5",CZ,PJ
 33161,"Stod,,u hliniště",CZ,PJ
@@ -30422,6 +30657,10 @@ stop_id,stop_name,stat,okres
 33574,Strunkovice nad Blanicí,CZ,PT
 22903,"Strunkovice nad Volyňkou,,rozc.Němětice 0.5",CZ,ST
 33585,Strunkovice nad Volyňkou,CZ,ST
+10324,"Strupčice,Hošnice",CZ,CV
+24593,"Strupčice,Okořín,Nová Běta",CZ,CV
+24592,"Strupčice,Okořín",CZ,CV
+34060,"Strupčice,Sušany",CZ,CV
 33587,"Strupčice,,škola",CZ,CV
 33586,Strupčice,CZ,CV
 33588,"Stružinec,,host.na Stařině",CZ,SM
@@ -30436,6 +30675,7 @@ stop_id,stop_name,stat,okres
 33598,"Stružná,Nová Víska",CZ,KV
 33595,"Stružná,,obec",CZ,KV
 33596,"Stružná,,rozc.0.2",CZ,KV
+33596,"Stružná,,rozc.",CZ,KV
 33599,"Stružná,Žalmanov",CZ,KV
 13176,"Stružnice,Jezvé,nám.",CZ,CL
 13177,"Stružnice,Jezvé,odb.Valteřice",CZ,CL
@@ -30455,6 +30695,7 @@ stop_id,stop_name,stat,okres
 33613,"Střelice,,rozc.Radostice",CZ,BO
 33615,"Střelice,,ústav sociální péče",CZ,BO
 33616,"Střelice,,Vršovice",CZ,BO
+33615,"Střelice,,Zámeček",CZ,BO
 43883,Střelice,CZ,PJ
 33617,"Střelice,,hájenka",CZ,ZN
 33619,"Střelice,,pož.zbroj.",CZ,ZN
@@ -30763,6 +31004,7 @@ stop_id,stop_name,stat,okres
 33946,"Suchdol,,točna",CZ,PV
 33947,"Suchdol,,ZŠ",CZ,PV
 33982,"Suchodol,Líha,rozc.1.0",CZ,PB
+33982,"Suchodol,Líha",CZ,PB
 33981,Suchodol,CZ,PB
 33992,Suchohrdly u Miroslavi,CZ,ZN
 33989,"Suchohrdly,,kurty",CZ,ZN
@@ -30884,6 +31126,7 @@ stop_id,stop_name,stat,okres
 55624,"Svatava,,Podlesí",CZ,SO
 34132,"Svatava,,rozc.",CZ,SO
 34133,"Svatava,,stadion",CZ,SO
+34129,"Svatava,,strojírny",CZ,SO
 34134,"Svatava,,škola",CZ,SO
 55628,"Svatava,,Transhor rozc.",CZ,SO
 34135,"Svatava,,Vlnap",CZ,SO
@@ -31127,6 +31370,7 @@ stop_id,stop_name,stat,okres
 34439,"Svojetice,,na vyhlídce",CZ,PH
 49445,"Svojetice,,u hájenky",CZ,PH
 34437,Svojetice,CZ,PH
+68475,"Svojetín,,ObÚ",CZ,RA
 38366,"Svojetín,Veclov,rozc.",CZ,RA
 38365,"Svojetín,Veclov",CZ,RA
 34440,Svojetín,CZ,RA
@@ -31227,6 +31471,8 @@ stop_id,stop_name,stat,okres
 34557,"Šakvice,,horní konec",CZ,BV
 34558,"Šakvice,,ObÚ",CZ,BV
 34559,"Šakvice,,žel.st.",CZ,BV
+66472,"Šamac,,Autobuska stanica",BiH,
+66473,"Šamac,,ZOLL",BiH,
 34602,"Šanov,,rozc.",CZ,RA
 34601,Šanov,CZ,RA
 34604,"Šanov,,horní zast.",CZ,ZL
@@ -31349,6 +31595,7 @@ stop_id,stop_name,stat,okres
 34763,"Šindelová,Krásná Lípa",CZ,SO
 50635,"Šindelová,,obchod",CZ,SO
 34762,"Šindelová,,Obora",CZ,SO
+30081,"Šindelová,,Údolí",CZ,SO
 34761,Šindelová,CZ,SO
 34777,"Šípy,Bělbožice",CZ,RA
 49655,"Šípy,Milíčov",CZ,RA
@@ -31472,6 +31719,7 @@ stop_id,stop_name,stat,okres
 34875,Šťáhlavy,CZ,PM
 34883,"Štědrá,Brložec",CZ,KV
 34884,"Štědrá,Domašín,rozc.1.2",CZ,KV
+34884,"Štědrá,Domašín,rozc.",CZ,KV
 34885,"Štědrá,Lažany",CZ,KV
 34886,"Štědrá,Prohoř",CZ,KV
 47248,"Štědrá,Zbraslav,rozc.",CZ,KV
@@ -32018,6 +32266,7 @@ stop_id,stop_name,stat,okres
 35609,"Teplá,Beranovka",CZ,CH
 35608,"Teplá,Beranov",CZ,CH
 35610,"Teplá,Beroun,rozc.0.3",CZ,CH
+35610,"Teplá,Beroun,rozc.",CZ,CH
 35611,"Teplá,Číhaná,rozc.",CZ,CH
 35605,"Teplá,,ČSA",CZ,CH
 35612,"Teplá,Heřmanov",CZ,CH
@@ -32028,10 +32277,12 @@ stop_id,stop_name,stat,okres
 35606,"Teplá,,Jitona rozc.",CZ,CH
 35601,"Teplá,,Jitona",CZ,CH
 35617,"Teplá,Kladruby,rozc.",CZ,CH
+35605,"Teplá,,Klášterní",CZ,CH
 35618,"Teplá,Klášter",CZ,CH
 35620,"Teplá,Křepkovice,mlýn",CZ,CH
 35619,"Teplá,Křepkovice",CZ,CH
 35621,"Teplá,Mrázov,rozc.0.5",CZ,CH
+35621,"Teplá,Mrázov,rozc.",CZ,CH
 65176,"Teplá,Mrázov",CZ,CH
 35602,"Teplá,,nám.",CZ,CH
 35626,"Teplá,,Nová Farma",CZ,CH
@@ -32454,6 +32705,7 @@ stop_id,stop_name,stat,okres
 36250,"Trhová Kamenice,,sokolovna",CZ,CR
 36251,"Trhová Kamenice,Zubří,rozc.",CZ,CR
 51045,"Trhové Dušníky,,Litavka",CZ,PB
+36259,"Trhové Dušníky,,Na Homoli",CZ,PB
 36259,"Trhové Dušníky,,rozc.0.5",CZ,PB
 52873,Trhové Dušníky,CZ,PB
 36260,"Trhové Sviny,,aut.nádr.",CZ,CB
@@ -32946,6 +33198,7 @@ stop_id,stop_name,stat,okres
 36738,"Třeboň,,Na Kopečku",CZ,JH
 65594,"Třeboň,Nová Hlína,točna",CZ,JH
 36762,"Třeboň,Nová Hlína",CZ,JH
+36739,"Třeboň,,Opatovický mlýn",CZ,JH
 36739,"Třeboň,,Opatovský mlýn",CZ,JH
 54883,"Třeboň,,Policie ČR",CZ,JH
 36764,"Třeboň,,Přeseka",CZ,JH
@@ -33311,6 +33564,7 @@ stop_id,stop_name,stat,okres
 55778,"Turnu,,ZOLL",RO,
 55731,"Turovec,,u kapličky",CZ,TA
 55736,"Turovec,,u rybníka",CZ,TA
+37150,"Turovec,,ZP",CZ,TA
 37148,Turovec,CZ,TA
 37151,"Turovice,,náves",CZ,PR
 37152,Tursko,CZ,PZ
@@ -33491,6 +33745,7 @@ stop_id,stop_name,stat,okres
 37383,"Údrnice,Bílsko",CZ,JC
 37382,"Údrnice,,náves",CZ,JC
 37384,"Údrnice,Únětice",CZ,JC
+66476,"Udvar,,ZOLL",H,
 37393,"Uhelná Příbram,Jarošov",CZ,HB
 37394,"Uhelná Příbram,Petrovice",CZ,HB
 37395,"Uhelná Příbram,Přísečno",CZ,HB
@@ -33648,6 +33903,7 @@ stop_id,stop_name,stat,okres
 47260,"Ujčov,Lískovec",CZ,ZR
 67227,"Ujčov,,u hřiště",CZ,ZR
 37565,Ujčov,CZ,ZR
+37599,"Újezd nade Mží,,rozcestí",CZ,PS
 37599,"Újezd nade Mží,,rozc.",CZ,PS
 37600,"Újezd nade Mží,,u můstku",CZ,PS
 37598,Újezd nade Mží,CZ,PS
@@ -34262,10 +34518,12 @@ stop_id,stop_name,stat,okres
 38064,"Valašská Bystřice,,Křižnice",CZ,VS
 38065,"Valašská Bystřice,,Leskovec",CZ,VS
 38066,"Valašská Bystřice,,Na horách",CZ,VS
+38068,"Valašská Bystřice,,Paseky",CZ,VS
 38068,"Valašská Bystřice,,prodejna Paseky",CZ,VS
 38069,"Valašská Bystřice,,Říka",CZ,VS
 38070,"Valašská Bystřice,,Spina",CZ,VS
 38071,"Valašská Bystřice,,škola",CZ,VS
+38059,"Valašská Bystřice,,Tisové",CZ,VS
 65641,"Valašská Bystřice,,u Machýčků",CZ,VS
 38072,"Valašská Bystřice,,u Míčky",CZ,VS
 38073,"Valašská Bystřice,,u Petruželů",CZ,VS
@@ -34365,6 +34623,7 @@ stop_id,stop_name,stat,okres
 38187,Valdíkov,CZ,TR
 67330,"Valea lui Mihai,,ZOLL",RO,
 40296,"Valeč,Bělá,rozc.0.5",CZ,KV
+40296,"Valeč,Bělá,rozc.",CZ,KV
 47264,"Valeč,Bělá",CZ,KV
 38191,"Valeč,Jeřeň",CZ,KV
 38192,"Valeč,Kostrčany",CZ,KV
@@ -35013,6 +35272,7 @@ stop_id,stop_name,stat,okres
 39072,"Velký Týnec,,Na Návsi",CZ,OL
 39073,"Velký Týnec,,Orlovna",CZ,OL
 39075,"Velký Týnec,,sokolovna",CZ,OL
+68483,"Velký Týnec,,u lavičky",CZ,OL
 52054,"Velký Týnec,Vsisko,Olympia",CZ,OL
 39080,"Velký Týnec,Vsisko,rozc.",CZ,OL
 46600,"Velký Újezd,,aut.st.",CZ,OL
@@ -35032,6 +35292,7 @@ stop_id,stop_name,stat,okres
 39097,"Veltruby,Hradištko I",CZ,KO
 39096,"Veltruby,,Na Návsi",CZ,KO
 39095,"Veltruby,,Školní",CZ,KO
+39100,"Veltrusy,,hřiště",CZ,ME
 39100,"Veltrusy,,STS",CZ,ME
 39098,Veltrusy,CZ,ME
 13122,"Velvary,Ješín",CZ,KD
@@ -35106,6 +35367,7 @@ stop_id,stop_name,stat,okres
 39177,"Verušičky,Budov,rozc.",CZ,KV
 49427,"Verušičky,Budov",CZ,KV
 39178,"Verušičky,Hvězda",CZ,KV
+39178,"Verušičky,,Hvězda",CZ,KV
 39180,"Verušičky,Luka",CZ,KV
 39176,"Verušičky,,rozc.",CZ,KV
 39181,"Verušičky,Týniště,rozc.",CZ,KV
@@ -35469,6 +35731,7 @@ stop_id,stop_name,stat,okres
 39615,"Vísky,,u školy",CZ,BK
 39614,Vísky,CZ,BK
 39616,Vísky,CZ,RO
+66465,"Visoko,,Autobuska stanica",BiH,
 39624,Višňová,CZ,JH
 39629,"Višňová,Andělka",CZ,LI
 39630,"Višňová,Filipovka",CZ,LI
@@ -35714,6 +35977,7 @@ stop_id,stop_name,stat,okres
 39890,"Vlkava,,kulturní dům",CZ,MB
 39891,"Vlkava,,náves",CZ,MB
 39896,"Vlkoš,,křiž.",CZ,HO
+39896,"Vlkoš,,Lidový dům",CZ,HO
 39899,"Vlkoš,,škola",CZ,HO
 39898,"Vlkoš,,Tesko",CZ,HO
 39894,Vlkoš,CZ,HO
@@ -36206,6 +36470,7 @@ stop_id,stop_name,stat,okres
 40311,"Vroutek,Vrbička",CZ,LN
 40474,"Vroutek,,závod",CZ,LN
 40469,Vroutek,CZ,LN
+41322,"Vrskmaň,Zaječice",CZ,CV
 40476,Vrskmaň,CZ,CV
 40480,"Vršce,,farma",CZ,JC
 40479,"Vršce,,ObÚ",CZ,JC
@@ -36232,6 +36497,7 @@ stop_id,stop_name,stat,okres
 40500,"Vřesová,,kombinát",CZ,SO
 52119,"Vřesová,,ObÚ",CZ,SO
 40501,"Vřesová,,rozc.0.5",CZ,SO
+40501,"Vřesová,,rozc.",CZ,SO
 40505,"Vřesovice,Paseky",CZ,HO
 40504,Vřesovice,CZ,HO
 40507,"Vřesovice,,u mlýna",CZ,PV
@@ -36296,6 +36562,7 @@ stop_id,stop_name,stat,okres
 40571,"Vstiš,,Bayer důl",CZ,PJ
 40570,Vstiš,CZ,PJ
 40572,Všehrdy,CZ,CV
+68487,"Všehrdy,,obecní úřad",CZ,PS
 40575,Všehrdy,CZ,PS
 40577,"Všechlapy,,Nový mlýn",CZ,BN
 40578,"Všechlapy,,Želivka",CZ,BN
@@ -37285,6 +37552,7 @@ stop_id,stop_name,stat,okres
 41818,"Zemětice,Čelákovy",CZ,PJ
 41819,"Zemětice,Chalupy",CZ,PJ
 41817,Zemětice,CZ,PJ
+66467,"Zenica,,Autobuska stanica",BiH,
 60329,"Zgorzelec,,PKP",PL,
 58671,"Zgorzelec,,ul.A.Krajowej SAD",PL,
 59581,"Zgorzelec,,ul.Kosciuszki-Pawilon",PL,
@@ -37424,6 +37692,7 @@ stop_id,stop_name,stat,okres
 64304,"Zlín,Kostelec,hřbitov",CZ,ZL
 42013,"Zlín,Kostelec,lázně rozc.",CZ,ZL
 67492,"Zlín,Kostelec,lázně Zlínská",CZ,ZL
+42012,"Zlín,Kostelec,lázně-Štípská",CZ,ZL
 42012,"Zlín,Kostelec,lázně",CZ,ZL
 42014,"Zlín,Kostelec,přehrada",CZ,ZL
 57882,"Zlín,Kostelec,střed",CZ,ZL
@@ -37477,6 +37746,7 @@ stop_id,stop_name,stat,okres
 42030,"Zlín,Malenovice,sídliště",CZ,ZL
 57918,"Zlín,Malenovice,Sklady",CZ,ZL
 57949,"Zlín,Malenovice,Sokolovská",CZ,ZL
+42026,"Zlín,Malenovice,škola",CZ,ZL
 42031,"Zlín,Malenovice,Tečovská",CZ,ZL
 57937,"Zlín,Malenovice,točna",CZ,ZL
 65654,"Zlín,Malenovice,Tyršova",CZ,ZL
@@ -37570,6 +37840,7 @@ stop_id,stop_name,stat,okres
 42009,"Zlín,,Zahradnická",CZ,ZL
 57935,"Zlín,,Zálešná V.",CZ,ZL
 41997,"Zlín,,zimní lázně",CZ,ZL
+68436,"Zlín,,Zimní stadion",CZ,ZL
 65033,"Zlín,,Žabárna",CZ,ZL
 42060,"Zliv,,nákup.stř.",CZ,CB
 42061,"Zliv,,sídl.",CZ,CB
@@ -37588,7 +37859,6 @@ stop_id,stop_name,stat,okres
 35948,"Zlonice,Tmáň",CZ,KD
 42072,"Zlonice,,u fary",CZ,KD
 40947,"Zlonice,Vyšínek",CZ,KD
-42075,"Zlonice,,závod",CZ,KD
 42069,Zlonice,CZ,KD
 42077,"Zlonín,,rozc.",CZ,PH
 42076,Zlonín,CZ,PH
@@ -37862,6 +38132,7 @@ stop_id,stop_name,stat,okres
 42327,"Žamberk,,divadlo",CZ,UO
 42334,"Žamberk,,Draha",CZ,UO
 42331,"Žamberk,,jídelna",CZ,UO
+42341,"Žamberk,,knihovna",CZ,UO
 42332,"Žamberk,,koupaliště",CZ,UO
 42333,"Žamberk,,Masarykovo nám.",CZ,UO
 42334,"Žamberk,,na Drahách",CZ,UO
@@ -38143,6 +38414,7 @@ stop_id,stop_name,stat,okres
 55145,"Železná Ruda,,Pod Belvederem-camping",CZ,KT
 42611,"Železná Ruda,Špičák,Jezerka",CZ,KT
 42612,"Železná Ruda,Špičák,Pod Můstkem",CZ,KT
+42614,"Železná Ruda,Špičák,rozcestí k nádraží",CZ,KT
 55144,"Železná Ruda,Špičák,Stella",CZ,KT
 42613,"Železná Ruda,Špičák,U Trojúhelníku",CZ,KT
 42614,"Železná Ruda,Špičák,žel.st.rozc.0.5",CZ,KT
@@ -38216,6 +38488,7 @@ stop_id,stop_name,stat,okres
 42709,"Ženklava,,kostel",CZ,NJ
 42711,"Ženklava,,Lacina",CZ,NJ
 42710,"Ženklava,,most",CZ,NJ
+66468,"Žepče,,Autobuska stanica",BiH,
 42713,"Žeranovice,,Bednárna",CZ,KM
 42715,"Žeranovice,Prosochov",CZ,KM
 42712,Žeranovice,CZ,KM
@@ -38326,83 +38599,3 @@ stop_id,stop_name,stat,okres
 42908,"Žirovnice,,Počátecká",CZ,PE
 42909,"Žirovnice,,rozc.1.0",CZ,PE
 42917,"Žirovnice,Stranná,rozc.1.0",CZ,PE
-42916,"Žirovnice,Stranná",CZ,PE
-42910,"Žirovnice,,st.statek",CZ,PE
-42918,"Žirovnice,Štítné",CZ,PE
-42911,"Žirovnice,,u hřbitova",CZ,PE
-42920,"Žirovnice,Vlčetín,rozc.",CZ,PE
-42919,"Žirovnice,Vlčetín",CZ,PE
-42923,"Žíšov,,II",CZ,TA
-42922,Žíšov,CZ,TA
-42928,"Žitenice,,Pohořanská",CZ,LT
-27350,"Žitenice,Pohořany",CZ,LT
-42931,"Žitenice,Skalice,Močidla",CZ,LT
-42932,"Žitenice,Skalice,ústav",CZ,LT
-42930,"Žitenice,Skalice",CZ,LT
-42929,"Žitenice,,Skalická",CZ,LT
-42927,Žitenice,CZ,LT
-42933,"Žítková,,Obecní úřad",CZ,UH
-42935,"Žítková,Polany",CZ,UH
-42936,"Žítková,,rekr.stř.",CZ,UH
-42937,"Žítková,,rozc.",CZ,UH
-42939,"Žítková,,ZD",CZ,UH
-49487,"Žitomir,,AS",UA,
-42945,"Žitovlice,Pojedy",CZ,NB
-42944,Žitovlice,CZ,NB
-42948,"Živanice,Dědek,křiž.",CZ,PA
-58544,"Živanice,Dědek",CZ,PA
-42949,"Živanice,Nerad,odb.",CZ,PA
-60295,"Živanice,Nerad",CZ,PA
-42947,"Živanice,,odb.Mělice",CZ,PA
-42949,"Živanice,,odb.Nerad",CZ,PA
-42946,"Živanice,,sokolovna",CZ,PA
-42946,Živanice,CZ,PA
-42950,"Životice u Nového Jičína,,kostel",CZ,NJ
-42951,"Životice u Nového Jičína,,obecní úřad",CZ,NJ
-42952,"Životice u Nového Jičína,,u Jana",CZ,NJ
-42953,Životice,CZ,PJ
-42960,"Žiželice,Hradišťko II",CZ,KO
-42961,"Žiželice,Končice",CZ,KO
-42963,"Žiželice,Loukonosy",CZ,KO
-42958,"Žiželice,,nám.",CZ,KO
-42957,"Žiželice,,Pod Vinicí",CZ,KO
-42959,"Žiželice,,škola",CZ,KO
-51102,"Žiželice,Zbraň",CZ,KO
-55551,"Žiželice,Hořetice,točna",CZ,LN
-10133,"Žiželice,Hořetice,žel.přejezd",CZ,LN
-33553,"Žiželice,Stroupeč",CZ,LN
-42965,Žiželice,CZ,LN
-7162,"Žižice,Drnov",CZ,KD
-48781,"Žižice,Luníkov",CZ,KD
-42969,"Žižice,,nad hřištěm",CZ,KD
-42967,"Žižice,,odb.Luníkov",CZ,KD
-42968,"Žižice,,odb.Zvoleněves",CZ,KD
-25348,"Žižice,Osluchov",CZ,KD
-42970,"Žižice,,škola",CZ,KD
-39733,"Žižice,Vítov",CZ,KD
-42966,Žižice,CZ,KD
-42972,"Žižkovo Pole,Macourov",CZ,HB
-67130,"Žižkovo Pole,,rozc.Železné Horky",CZ,HB
-42973,"Žižkovo Pole,Samotín,rozc.0.8",CZ,HB
-42971,Žižkovo Pole,CZ,HB
-42975,"Žlebské Chvalovice,,žel.zast.",CZ,CR
-30014,"Žlebské Chvalovice,Žlebská Lhotka,odb.",CZ,CR
-42974,Žlebské Chvalovice,CZ,CR
-42980,"Žleby,,Hráz",CZ,KH
-42982,"Žleby,Kamenné Mosty",CZ,KH
-49190,"Žleby,Markovice,drůbežárna",CZ,KH
-42983,"Žleby,Markovice,lom",CZ,KH
-42978,"Žleby,,nám.",CZ,KH
-42979,"Žleby,,Sibiř",CZ,KH
-42977,"Žleby,,Šumava",CZ,KH
-42985,"Žleby,Zehuby",CZ,KH
-42981,"Žleby,,ZŠ",CZ,KH
-42989,Žlunice,CZ,JC
-42990,"Žlutava,,dolní zast.",CZ,ZL
-42991,"Žlutava,,hradlo",CZ,ZL
-42992,"Žlutava,,škola",CZ,ZL
-67775,"Žlutava,,točna",CZ,ZL
-42993,"Žlutava,,Žlaby",CZ,ZL
-42996,"Žlutice,,host.Zlaté hrábě",CZ,KV
-43000,"Žlutice,Knínice",CZ,KV
-42997,"Žlutice,,Nádražní",CZ,KV
